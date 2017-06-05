@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MorphoSmart_SDK_6.6.6.0-3.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/MorphoSmart_SDK_6.6.6.0-3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

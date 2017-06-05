@@ -1,0 +1,1834 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bg1"
+    tools:context="com.mtpv.LawnOrder.FPT_Activity" >
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="fill_parent"
+        android:layout_height="60dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/headerlogo" />
+    
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:text="Witness Particulars"
+        android:textColor="#ffffff"
+        android:textSize="22sp"
+        android:textStyle="bold" />
+  
+  <ScrollView
+      android:layout_width="fill_parent"
+      android:layout_height="450dp" >
+      
+    
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:orientation="vertical" >
+        
+         <TextView
+         android:id="@+id/wt_gender"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text=""
+        android:visibility="gone"
+        android:textColor="#ffffff"
+        android:textSize="10sp"
+        android:textStyle="bold" />
+     <TextView
+         android:id="@+id/wt_gender2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text=""
+        android:visibility="gone"
+        android:textColor="#ffffff"
+        android:textSize="10sp"
+        android:textStyle="bold" />
+     <TextView
+         android:id="@+id/wt_gender3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text=""
+        android:visibility="gone"
+        android:textColor="#ffffff"
+        android:textSize="10sp"
+        android:textStyle="bold" />
+     <TextView
+         android:id="@+id/wt_gender4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text=""
+        android:visibility="gone"
+        android:textColor="#ffffff"
+        android:textSize="10sp"
+        android:textStyle="bold" />
+        
+    <LinearLayout
+        android:id="@+id/wt_name_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="10dp"
+        android:visibility="visible"
+        android:orientation="horizontal" >
+
+   <TextView
+       android:layout_width="100dp"
+       android:layout_height="wrap_content"
+       android:layout_gravity="center"
+       android:paddingRight="40dp"
+       android:text="Name :"
+       android:textColor="#fff"
+       android:textSize="14sp"
+       android:textStyle="bold" />
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:text="@string/star"
+    android:textColor="#FF0000"
+    android:textSize="14sp"
+    android:textStyle="bold" />
+
+   <EditText
+       android:id="@+id/witness_name"
+       android:layout_width="210dp"
+       android:layout_height="35dp"
+       android:layout_gravity="center"
+       android:background="@drawable/edittext_white"
+       android:hint="Enter Name"
+       android:inputType="textCapCharacters"
+       android:paddingLeft="5dp"
+       android:singleLine="true"
+       android:textColor="#000"
+       android:text=""
+       android:textSize="14sp" />
+   
+   <!-- <ImageView
+       android:id="@+id/edit_btn_pssprt_num"
+       android:layout_width="40dp"
+       android:layout_height="40dp"
+       android:layout_gravity="center"
+       android:layout_marginLeft="10dp"
+       android:contentDescription="@string/desc"
+       android:src="@drawable/edit" /> -->
+   
+</LinearLayout>
+
+ <LinearLayout
+     android:id="@+id/wt_fname_layout"
+     android:layout_width="fill_parent"
+     android:layout_height="40dp"
+     android:layout_marginTop="10dp"
+     android:visibility="visible"
+     android:orientation="horizontal" >
+
+   <TextView
+       android:layout_width="100dp"
+       android:layout_height="wrap_content"
+       android:layout_gravity="center"
+       android:paddingRight="40dp"
+       android:text="Father Name :"
+       android:textColor="#fff"
+       android:textSize="14sp"
+       android:textStyle="bold" />
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:text="@string/star"
+    android:textColor="#FF0000"
+    android:textSize="14sp"
+    android:textStyle="bold" />
+
+   <EditText
+       android:id="@+id/witness_fname"
+       android:layout_width="210dp"
+       android:layout_height="35dp"
+       android:layout_gravity="center"
+       android:background="@drawable/edittext_white"
+       android:hint="Enter Father Name"
+       android:inputType="textCapCharacters"
+       android:paddingLeft="5dp"
+       android:singleLine="true"
+       android:text=""
+       android:textColor="#000"
+       android:textSize="14sp" />
+   
+</LinearLayout>
+
+ <LinearLayout
+     android:id="@+id/wt_age_layout"
+     android:layout_width="fill_parent"
+     android:layout_height="40dp"
+     android:layout_marginTop="15dp"
+     android:visibility="visible"
+     android:orientation="horizontal" >
+
+   <TextView
+       android:layout_width="100dp"
+       android:layout_height="wrap_content"
+       android:layout_gravity="center"
+       android:paddingRight="40dp"
+       android:text="Age :"
+       android:textColor="#fff"
+       android:textSize="14sp"
+       android:textStyle="bold" />
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:text="@string/star"
+    android:textColor="#FF0000"
+    android:textSize="14sp"
+    android:textStyle="bold" />
+
+   <EditText
+       android:id="@+id/witness_age"
+       android:layout_width="210dp"
+       android:layout_height="35dp"
+       android:layout_gravity="center"
+       android:background="@drawable/edittext_white"
+       android:hint="Enter Age"
+       android:inputType="number"
+       android:maxLength="2"
+       android:text=""
+       android:paddingLeft="5dp"
+       android:singleLine="true"
+       android:textColor="#000"
+       android:textSize="14sp" />
+   
+</LinearLayout>
+
+ <LinearLayout
+     android:id="@+id/wt_layout_gender"
+     android:layout_width="fill_parent"
+     android:layout_height="40dp"
+     android:layout_marginTop="5dp"
+     android:visibility="visible"
+     android:orientation="horizontal" >
+
+   <TextView
+       android:layout_width="100dp"
+       android:layout_height="wrap_content"
+       android:layout_gravity="center"
+       android:paddingRight="5dp"
+       android:text="@string/gender"
+       android:textColor="#ffffff"
+       android:textSize="14sp"
+       android:textStyle="bold" />
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:text="@string/star"
+    android:textColor="#FF0000"
+    android:textSize="14sp"
+    android:textStyle="bold" />
+
+  <RadioGroup 
+      android:id="@+id/wt_gender_group"
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content"
+      android:orientation="horizontal"
+      android:layout_gravity="center"
+      android:weightSum="1">
+
+   <RadioButton
+       android:id="@+id/wt_male"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_weight="0.1"
+       android:text="@string/male"
+       android:scaleX="0.8"
+       android:scaleY="0.8"
+       android:textColor="#ffffff"
+       android:textSize="14sp" />
+   
+      <RadioButton
+          android:id="@+id/wt_female"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_weight="0.1"
+          android:text="@string/female"
+           
+          android:scaleX="0.8"
+      	  android:scaleY="0.8"
+          android:textColor="#ffffff"
+          android:textSize="14sp" />
+      
+         <RadioButton
+             android:id="@+id/wt_other"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_weight="0.1"
+              
+             android:scaleX="0.8"
+      		 android:scaleY="0.8"
+             android:text="@string/other"
+             android:textColor="#ffffff"
+             android:textSize="14sp" />
+   
+   </RadioGroup>
+
+ <!--   <ImageView
+       android:id="@+id/edit_btn_gender"
+       android:layout_width="40dp"
+       android:layout_height="40dp"
+       android:layout_gravity="center"
+       android:layout_marginLeft="10dp"
+       android:contentDescription="@string/desc"
+       android:src="@drawable/edit" /> -->
+   
+</LinearLayout>
+
+ <LinearLayout
+     android:id="@+id/wt_phone_layout"
+     android:layout_width="fill_parent"
+     android:layout_height="40dp"
+     android:layout_marginTop="10dp"
+     android:visibility="visible"
+     android:orientation="horizontal" >
+
+   <TextView
+       android:layout_width="100dp"
+       android:layout_height="wrap_content"
+       android:layout_gravity="center"
+       android:paddingRight="40dp"
+       android:text="Phone Number :"
+       android:textColor="#fff"
+       android:textSize="14sp"
+       android:textStyle="bold" />
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:text="@string/star"
+    android:textColor="#FF0000"
+    android:textSize="14sp"
+    android:textStyle="bold" />
+
+   <EditText
+       android:id="@+id/witness_phone"
+       android:layout_width="210dp"
+       android:layout_height="35dp"
+       android:layout_gravity="center"
+       android:background="@drawable/edittext_white"
+       android:hint="Enter Phone Number"
+       android:inputType="number"
+       android:maxLength="10"
+       android:paddingLeft="5dp"
+       android:text=""
+       android:singleLine="true"
+       android:textColor="#000"
+       android:textSize="14sp" />
+   
+</LinearLayout>
+
+ <LinearLayout
+     android:id="@+id/wt_address_layout"
+     android:layout_width="fill_parent"
+     android:layout_height="80dp"
+     android:layout_marginTop="10dp"
+     android:visibility="visible"
+     android:orientation="horizontal" >
+
+   <TextView
+       android:layout_width="100dp"
+       android:layout_height="wrap_content"
+       android:layout_gravity="top"
+       android:paddingRight="40dp"
+       android:text="Address :"
+       android:textColor="#fff"
+       android:textSize="14sp"
+       android:textStyle="bold" />
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="top"
+    android:text="@string/star"
+    android:textColor="#FF0000"
+    android:textSize="14sp"
+    android:textStyle="bold" />
+
+   <EditText
+       android:id="@+id/witness_address"
+       android:layout_width="210dp"
+       android:layout_height="80dp"
+       android:background="@drawable/edittext_white"
+       android:gravity="top|left"
+       android:hint="Enter Complete Address"
+       android:inputType="textMultiLine|textCapCharacters"
+       android:lines="6"
+       android:maxLines="8"
+       android:minLines="6"
+       android:paddingLeft="5dp"
+       android:paddingTop="2dp"
+       android:text=""
+       android:scrollbars="vertical"
+       android:textColor="#000"
+       android:textSize="14sp" />
+   
+</LinearLayout>
+ 
+ <LinearLayout
+     android:id="@+id/wt_city_layout"
+     android:layout_width="fill_parent"
+     android:layout_height="40dp"
+     android:layout_marginTop="15dp"
+     android:visibility="visible"
+     android:orientation="horizontal" >
+
+   <TextView
+       android:layout_width="100dp"
+       android:layout_height="wrap_content"
+       android:layout_gravity="center"
+       android:paddingRight="40dp"
+       android:text="City / District :"
+       android:textColor="#fff"
+       android:textSize="14sp"
+       android:textStyle="bold" />
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:text="@string/star"
+    android:textColor="#FF0000"
+    android:textSize="14sp"
+    android:textStyle="bold" />
+
+   <EditText
+       android:id="@+id/witness_city"
+       android:layout_width="210dp"
+       android:layout_height="35dp"
+       android:layout_gravity="center"
+       android:background="@drawable/edittext_white"
+       android:hint="Enter City Name"
+       android:inputType="textCapCharacters" 
+       android:paddingLeft="5dp"
+       android:singleLine="true"
+       android:text=""
+       android:textColor="#000"
+       android:textSize="14sp" />
+   
+</LinearLayout>
+
+ 
+
+ <LinearLayout
+         android:id="@+id/get_the_details"
+         android:layout_width="fill_parent"
+         android:layout_height="wrap_content"
+         android:layout_marginTop="15dp"
+         android:visibility="visible"
+         android:orientation="horizontal" >
+   
+         <Spinner
+             android:id="@+id/witness_id_options"
+             android:layout_width="100dp"
+             android:layout_height="35dp"
+             android:layout_gravity="center"
+             android:background="#9accff"
+             android:spinnerMode="dialog"
+             android:entries="@array/id_Options_list"
+             android:paddingLeft="10dp"
+             android:prompt="@string/id_Options_prompt" />
+ 	 
+ 	 <EditText
+ 	     android:id="@+id/wt_id_details"
+ 	     android:layout_width="210dp"
+ 	     android:layout_height="35dp"
+ 	     android:layout_marginLeft="8dp"
+ 	     android:background="@drawable/edittext_white"
+ 	     android:hint="@string/radio_edittxt"
+ 	     android:inputType="textCapCharacters" 
+ 	     android:paddingLeft="5dp"
+ 	     android:singleLine="true"
+ 	     android:text=""
+ 	     android:textColor="#000"
+ 	     android:textSize="14sp" />
+
+     </LinearLayout>
+ 
+ 
+
+<!--****************** Witness Form 2 Starts *********************************-->
+
+<LinearLayout 
+    	android:id="@+id/wt_layout2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:orientation="vertical">
+        
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="15dp"
+        android:text="Witness Form 2"
+        android:textColor="#ffffff"
+        android:textSize="22sp"
+        android:textStyle="bold" /> 
+    
+    
+    
+    <LinearLayout
+        android:id="@+id/wt_name_layout2"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal" >
+
+   <TextView
+       android:layout_width="100dp"
+       android:layout_height="wrap_content"
+       android:layout_gravity="center"
+       android:paddingRight="40dp"
+       android:text="Name :"
+       android:textColor="#fff"
+       android:textSize="14sp"
+       android:textStyle="bold" />
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:text="@string/star"
+    android:textColor="#FF0000"
+    android:textSize="14sp"
+    android:textStyle="bold" />
+
+   <EditText
+       android:id="@+id/witness_name2"
+       android:layout_width="210dp"
+       android:layout_height="35dp"
+       android:layout_gravity="center"
+       android:background="@drawable/edittext_white"
+       android:hint="Enter Name"
+       android:inputType="textCapCharacters" 
+       android:paddingLeft="5dp"
+       android:text=""
+       android:singleLine="true"
+       android:textColor="#000"
+       android:textSize="14sp" />
+   
+   <!-- <ImageView
+       android:id="@+id/edit_btn_pssprt_num"
+       android:layout_width="40dp"
+       android:layout_height="40dp"
+       android:layout_gravity="center"
+       android:layout_marginLeft="10dp"
+       android:contentDescription="@string/desc"
+       android:src="@drawable/edit" /> -->
+   
+</LinearLayout>
+
+
+ <LinearLayout
+     android:id="@+id/wt_fname_layout2"
+     android:layout_width="fill_parent"
+     android:layout_height="40dp"
+     android:layout_marginTop="10dp"
+     android:orientation="horizontal" >
+
+   <TextView
+       android:layout_width="100dp"
+       android:layout_height="wrap_content"
+       android:layout_gravity="center"
+       android:paddingRight="40dp"
+       android:text="Father Name :"
+       android:textColor="#fff"
+       android:textSize="14sp"
+       android:textStyle="bold" />
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:text="@string/star"
+    android:textColor="#FF0000"
+    android:textSize="14sp"
+    android:textStyle="bold" />
+
+   <EditText
+       android:id="@+id/witness_fname2"
+       android:layout_width="210dp"
+       android:layout_height="35dp"
+       android:layout_gravity="center"
+       android:background="@drawable/edittext_white"
+       android:hint="Enter Father Name"
+       android:inputType="textCapCharacters" 
+       android:paddingLeft="5dp"
+       android:singleLine="true"
+       android:text=""
+       android:textColor="#000"
+       android:textSize="14sp" />
+   
+</LinearLayout>
+
+<LinearLayout
+     android:id="@+id/wt_age_layout2"
+     android:layout_width="fill_parent"
+     android:layout_height="40dp"
+     android:layout_marginTop="15dp"
+     android:orientation="horizontal" >
+
+   <TextView
+       android:layout_width="100dp"
+       android:layout_height="wrap_content"
+       android:layout_gravity="center"
+       android:paddingRight="40dp"
+       android:text="Age :"
+       android:textColor="#fff"
+       android:textSize="14sp"
+       android:textStyle="bold" />
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:text="@string/star"
+    android:textColor="#FF0000"
+    android:textSize="14sp"
+    android:textStyle="bold" />
+
+   <EditText
+       android:id="@+id/witness_age2"
+       android:layout_width="210dp"
+       android:layout_height="35dp"
+       android:layout_gravity="center"
+       android:background="@drawable/edittext_white"
+       android:hint="Enter Age"
+       android:inputType="number"
+       android:maxLength="2"
+       android:paddingLeft="5dp"
+       android:singleLine="true"
+       android:text=""
+       android:textColor="#000"
+       android:textSize="14sp" />
+   
+</LinearLayout>
+
+  <LinearLayout
+      android:id="@+id/wt_layout_gender2"
+      android:layout_width="fill_parent"
+      android:layout_height="40dp"
+      android:layout_marginTop="5dp"
+      android:orientation="horizontal" >
+
+   <TextView
+       android:layout_width="100dp"
+       android:layout_height="wrap_content"
+       android:layout_gravity="center"
+       android:paddingRight="5dp"
+       android:text="@string/gender"
+       android:textColor="#ffffff"
+       android:textSize="14sp"
+       android:textStyle="bold" />
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:text="@string/star"
+    android:textColor="#FF0000"
+    android:textSize="14sp"
+    android:textStyle="bold" />
+
+  <RadioGroup 
+      android:id="@+id/wt_gender_group2"
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content"
+      android:orientation="horizontal"
+      android:layout_gravity="center"
+      android:weightSum="1">
+
+   <RadioButton
+       android:id="@+id/wt_male2"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_weight="0.1"
+       android:scaleX="0.8"
+       android:scaleY="0.8"
+       android:text="@string/male"
+       android:textColor="#ffffff"
+       android:textSize="14sp" />
+   
+      <RadioButton
+          android:id="@+id/wt_female2"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_weight="0.1"
+          android:scaleX="0.8"
+      	  android:scaleY="0.8"
+          android:text="@string/female"
+          android:textColor="#ffffff"
+          android:textSize="14sp" />
+      
+         <RadioButton
+             android:id="@+id/wt_other2"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_weight="0.1"
+             android:scaleX="0.8"
+             android:scaleY="0.8"
+             android:text="@string/other"
+             android:textColor="#ffffff"
+             android:textSize="14sp" />
+   
+   </RadioGroup>
+
+ <!--   <ImageView
+       android:id="@+id/edit_btn_gender"
+       android:layout_width="40dp"
+       android:layout_height="40dp"
+       android:layout_gravity="center"
+       android:layout_marginLeft="10dp"
+       android:contentDescription="@string/desc"
+       android:src="@drawable/edit" /> -->
+   
+</LinearLayout>
+
+ <LinearLayout
+     android:id="@+id/wt_phone_layout2"
+     android:layout_width="fill_parent"
+     android:layout_height="40dp"
+     android:layout_marginTop="10dp"
+     android:orientation="horizontal" >
+
+   <TextView
+       android:layout_width="100dp"
+       android:layout_height="wrap_content"
+       android:layout_gravity="center"
+       android:paddingRight="40dp"
+       android:text="Phone Number :"
+       android:textColor="#fff"
+       android:textSize="14sp"
+       android:textStyle="bold" />
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:text="@string/star"
+    android:textColor="#FF0000"
+    android:textSize="14sp"
+    android:textStyle="bold" />
+
+   <EditText
+       android:id="@+id/witness_phone2"
+       android:layout_width="210dp"
+       android:layout_height="35dp"
+       android:layout_gravity="center"
+       android:background="@drawable/edittext_white"
+       android:hint="Enter Phone Number"
+       android:inputType="number"
+       android:maxLength="10"
+       android:paddingLeft="5dp"
+       android:singleLine="true"
+       android:text=""
+       android:textColor="#000"
+       android:textSize="14sp" />
+   
+</LinearLayout>
+
+ <LinearLayout
+     android:id="@+id/wt_address_layout2"
+     android:layout_width="fill_parent"
+     android:layout_height="80dp"
+     android:layout_marginTop="10dp"
+     android:orientation="horizontal" >
+
+   <TextView
+       android:layout_width="100dp"
+       android:layout_height="wrap_content"
+       android:layout_gravity="top"
+       android:paddingRight="40dp"
+       android:text="Address :"
+       android:textColor="#fff"
+       android:textSize="14sp"
+       android:textStyle="bold" />
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="top"
+    android:text="@string/star"
+    android:textColor="#FF0000"
+    android:textSize="14sp"
+    android:textStyle="bold" />
+
+   <EditText
+       android:id="@+id/witness_address2"
+       android:layout_width="210dp"
+       android:layout_height="80dp"
+       android:background="@drawable/edittext_white"
+       android:gravity="top|left"
+       android:hint="Enter Complete Address"
+       android:inputType="textMultiLine|textCapCharacters"
+       android:lines="6"
+       android:maxLines="8"
+       android:minLines="6"
+       android:paddingLeft="5dp"
+       android:paddingTop="2dp"
+       android:scrollbars="vertical"
+       android:text=""
+       android:textColor="#000"
+       android:textSize="14sp" />
+   
+</LinearLayout>
+
+<LinearLayout
+    android:id="@+id/wt_city_layout2"
+    android:layout_width="fill_parent"
+    android:layout_height="40dp"
+    android:layout_marginTop="10dp"
+    android:orientation="horizontal" >
+
+   <TextView
+       android:layout_width="100dp"
+       android:layout_height="wrap_content"
+       android:layout_gravity="center"
+       android:paddingRight="40dp"
+       android:text="City / District :"
+       android:textColor="#fff"
+       android:textSize="14sp"
+       android:textStyle="bold" />
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:text="@string/star"
+    android:textColor="#FF0000"
+    android:textSize="14sp"
+    android:textStyle="bold" />
+
+   <EditText
+       android:id="@+id/witness_city2"
+       android:layout_width="210dp"
+       android:layout_height="35dp"
+       android:layout_gravity="center"
+       android:background="@drawable/edittext_white"
+       android:hint="Enter City Name"
+       android:inputType="textCapCharacters" 
+       android:paddingLeft="5dp"
+       android:singleLine="true"
+       android:text=""
+       android:textColor="#000"
+       android:textSize="14sp" />
+   
+</LinearLayout>
+ 
+
+ <LinearLayout
+         android:id="@+id/wt_id_proof2"
+         android:layout_width="fill_parent"
+         android:layout_height="wrap_content"
+         android:layout_marginTop="15dp"
+         android:orientation="horizontal" >
+   
+         <Spinner
+             android:id="@+id/witness_id_options2"
+             android:layout_width="100dp"
+             android:layout_height="35dp"
+             android:layout_gravity="center"
+             android:background="#9accff"
+             android:spinnerMode="dialog"
+             android:entries="@array/id_Options_list"
+             android:prompt="@string/id_Options_prompt" />
+ 	 
+ 	 <EditText
+ 	     android:id="@+id/witness_id_details2"
+ 	     android:layout_width="210dp"
+ 	     android:layout_height="35dp"
+ 	     android:layout_marginLeft="8dp"
+ 	     android:background="@drawable/edittext_white"
+ 	     android:hint="@string/radio_edittxt"
+ 	     android:inputType="textCapCharacters" 
+ 	     android:paddingLeft="5dp"
+ 	     android:singleLine="true"
+ 	     android:text=""
+ 	     android:textColor="#000"
+ 	     android:textSize="14sp" />
+
+     </LinearLayout>
+ 
+ <Button
+     android:id="@+id/remve_witns2"
+     android:layout_width="120dp"
+     android:layout_height="40dp"
+     android:layout_gravity="center"
+     android:layout_marginTop="20dp"
+     android:background="@drawable/btns"
+     android:text="Remove Witness"
+     android:textColor="#ffffff"
+     android:textSize="14sp" />
+
+  </LinearLayout>
+
+
+<!--****************** Witness Form 2 Ends *********************************-->
+
+
+
+<!--****************** Witness Form 3 Starts *********************************-->
+<LinearLayout 
+    	android:id="@+id/wt_layout3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:orientation="vertical">
+        
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="15dp"
+        android:text="Witness Form 3"
+        android:textColor="#ffffff"
+        android:textSize="22sp"
+        android:textStyle="bold" />
+    
+        
+    <LinearLayout
+    android:id="@+id/wt_name_layout3"
+    android:layout_width="fill_parent"
+    android:layout_height="40dp"
+    android:layout_marginTop="15dp"
+    android:orientation="horizontal" >
+
+   <TextView
+       android:layout_width="100dp"
+       android:layout_height="wrap_content"
+       android:layout_gravity="center"
+       android:paddingRight="40dp"
+       android:text="Name :"
+       android:textColor="#fff"
+       android:textSize="14sp"
+       android:textStyle="bold" />
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:text="@string/star"
+    android:textColor="#FF0000"
+    android:textSize="14sp"
+    android:textStyle="bold" />
+
+   <EditText
+       android:id="@+id/witness_name3"
+       android:layout_width="210dp"
+       android:layout_height="35dp"
+       android:layout_gravity="center"
+       android:background="@drawable/edittext_white"
+        android:inputType="textCapCharacters" 
+       android:paddingLeft="5dp"
+       android:textColor="#000"
+        android:text=""
+       android:hint="Enter Name"
+       android:singleLine="true"
+       android:textSize="14sp" />
+   
+   <!-- <ImageView
+       android:id="@+id/edit_btn_pssprt_num"
+       android:layout_width="40dp"
+       android:layout_height="40dp"
+       android:layout_gravity="center"
+       android:layout_marginLeft="10dp"
+       android:contentDescription="@string/desc"
+       android:src="@drawable/edit" /> -->
+   
+</LinearLayout>
+
+ <LinearLayout
+    android:id="@+id/wt_fname_layout3"
+    android:layout_width="fill_parent"
+    android:layout_height="40dp"
+    android:layout_marginTop="10dp"
+    android:orientation="horizontal" >
+
+   <TextView
+       android:layout_width="100dp"
+       android:layout_height="wrap_content"
+       android:layout_gravity="center"
+       android:paddingRight="40dp"
+       android:text="Father Name :"
+       android:textColor="#fff"
+       android:textSize="14sp"
+       android:textStyle="bold" />
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:text="@string/star"
+    android:textColor="#FF0000"
+    android:textSize="14sp"
+    android:textStyle="bold" />
+
+   <EditText
+       android:id="@+id/witness_fname3"
+       android:layout_width="210dp"
+       android:layout_height="35dp"
+       android:layout_gravity="center"
+       android:background="@drawable/edittext_white"
+        android:text=""
+       android:paddingLeft="5dp"
+       android:textColor="#000"
+       android:inputType="textCapCharacters"  
+       android:hint="Enter Father Name"
+       android:singleLine="true"
+       android:textSize="14sp" />
+   
+</LinearLayout>
+
+ <LinearLayout
+    android:id="@+id/wt_age_layout3"
+    android:layout_width="fill_parent"
+    android:layout_height="40dp"
+    android:layout_marginTop="10dp"
+    android:orientation="horizontal" >
+
+   <TextView
+       android:layout_width="100dp"
+       android:layout_height="wrap_content"
+       android:layout_gravity="center"
+       android:paddingRight="40dp"
+       android:text="Age :"
+       android:textColor="#fff"
+       android:textSize="14sp"
+       android:textStyle="bold" />
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:text="@string/star"
+    android:textColor="#FF0000"
+    android:textSize="14sp"
+    android:textStyle="bold" />
+
+   <EditText
+       android:id="@+id/witness_age3"
+       android:layout_width="210dp"
+       android:layout_height="35dp"
+       android:layout_gravity="center"
+       android:background="@drawable/edittext_white"
+       android:text="" 
+       android:paddingLeft="5dp"
+       android:textColor="#000"
+        
+       android:hint="Enter Age"
+       android:singleLine="true"
+       android:inputType="number"
+       android:maxLength="2"
+       android:textSize="14sp" />
+   
+</LinearLayout>
+
+ <LinearLayout
+ 	    android:id="@+id/wt_layout_gender3"
+ 	    android:layout_width="fill_parent"
+ 	    android:layout_height="40dp"
+ 	    android:layout_marginTop="5dp"
+ 	    android:orientation="horizontal" >
+
+   <TextView
+       android:layout_width="100dp"
+       android:layout_height="wrap_content"
+       android:layout_gravity="center"
+       android:paddingRight="5dp"
+       android:text="@string/gender"
+       android:textSize="14sp"
+       android:textColor="#ffffff"
+       android:textStyle="bold" />
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:text="@string/star"
+    android:textColor="#FF0000"
+    android:textSize="14sp"
+    android:textStyle="bold" />
+
+  <RadioGroup 
+      android:id="@+id/wt_gender_group3"
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content"
+      android:orientation="horizontal"
+      android:layout_gravity="center"
+      android:weightSum="1">
+
+   <RadioButton
+       android:id="@+id/wt_male3"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_weight="0.1"
+       android:text="@string/male"
+       android:scaleX="0.8"
+ 	   android:scaleY="0.8"
+       android:textColor="#ffffff"
+       android:textSize="14sp" />
+   
+      <RadioButton
+          android:id="@+id/wt_female3"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_weight="0.1"
+          android:text="@string/female"
+           
+          android:scaleX="0.8"
+      		android:scaleY="0.8"
+          android:textColor="#ffffff"
+          android:textSize="14sp" />
+      
+         <RadioButton
+             android:id="@+id/wt_other3"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_weight="0.1"
+             android:scaleX="0.8"
+      		android:scaleY="0.8"
+             android:text="@string/other"
+             android:textColor="#ffffff"
+             android:textSize="14sp" />
+   
+   </RadioGroup>
+
+ <!--   <ImageView
+       android:id="@+id/edit_btn_gender"
+       android:layout_width="40dp"
+       android:layout_height="40dp"
+       android:layout_gravity="center"
+       android:layout_marginLeft="10dp"
+       android:contentDescription="@string/desc"
+       android:src="@drawable/edit" /> -->
+   
+</LinearLayout> 
+ 
+ 
+ <LinearLayout
+    android:id="@+id/wt_phone_layout3"
+    android:layout_width="fill_parent"
+    android:layout_height="40dp"
+    android:layout_marginTop="10dp"
+    android:orientation="horizontal" >
+
+   <TextView
+       android:layout_width="100dp"
+       android:layout_height="wrap_content"
+       android:layout_gravity="center"
+       android:paddingRight="40dp"
+       android:text="Phone Number :"
+       android:textColor="#fff"
+       android:textSize="14sp"
+       android:textStyle="bold" />
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:text="@string/star"
+    android:textColor="#FF0000"
+    android:textSize="14sp"
+    android:textStyle="bold" />
+
+   <EditText
+       android:id="@+id/witness_phone3"
+       android:layout_width="210dp"
+       android:layout_height="35dp"
+       android:layout_gravity="center"
+       android:background="@drawable/edittext_white"
+        
+       android:paddingLeft="5dp"
+       android:textColor="#000"
+       android:text="" 
+       android:hint="Enter Phone Number"
+       android:singleLine="true"
+       android:inputType="number"
+       android:maxLength="10"
+       android:textSize="14sp" />
+   
+  
+   
+</LinearLayout>
+
+ <LinearLayout
+     android:id="@+id/wt_address_layout3"
+     android:layout_width="fill_parent"
+     android:layout_height="80dp"
+     android:layout_marginTop="10dp"
+     android:orientation="horizontal" >
+
+   <TextView
+       android:layout_width="100dp"
+       android:layout_height="wrap_content"
+       android:layout_gravity="top"
+       android:paddingRight="40dp"
+       android:text="Address :"
+       android:textColor="#fff"
+       android:textSize="14sp"
+       android:textStyle="bold" />
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="top"
+    android:text="@string/star"
+    android:textColor="#FF0000"
+    android:textSize="14sp"
+    android:textStyle="bold" />
+
+   <EditText
+       android:id="@+id/witness_address3"
+       android:layout_width="210dp"
+       android:layout_height="80dp"
+       android:background="@drawable/edittext_white"
+       android:gravity="top|left"
+       android:hint="Enter Complete Address"
+       android:inputType="textMultiLine|textCapCharacters"
+       android:lines="6"
+       android:maxLines="8"
+       android:minLines="6"
+       android:text=""
+       android:paddingLeft="5dp"
+       android:paddingTop="2dp"
+       android:textColor="#000"
+       android:textSize="14sp"
+       android:scrollbars="vertical" />
+   
+</LinearLayout>
+
+ <LinearLayout
+    android:id="@+id/wt_city_layout3"
+    android:layout_width="fill_parent"
+    android:layout_height="40dp"
+    android:layout_marginTop="10dp"
+    android:orientation="horizontal" >
+
+   <TextView
+       android:layout_width="100dp"
+       android:layout_height="wrap_content"
+       android:layout_gravity="center"
+       android:paddingRight="40dp"
+       android:text="City / District :"
+       android:textColor="#fff"
+       android:textSize="14sp"
+       android:textStyle="bold" />
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:text="@string/star"
+    android:textColor="#FF0000"
+    android:textSize="14sp"
+    android:textStyle="bold" />
+
+   <EditText
+       android:id="@+id/witness_city3"
+       android:layout_width="210dp"
+       android:layout_height="35dp"
+       android:layout_gravity="center"
+       android:background="@drawable/edittext_white"
+       android:inputType="textCapCharacters"  
+       android:paddingLeft="5dp"
+       android:textColor="#000"
+       android:text="" 
+       android:hint="Enter City Name"
+       android:singleLine="true"
+       android:textSize="14sp" />
+   
+  
+   
+</LinearLayout>
+ 
+ 
+ <LinearLayout
+         android:id="@+id/wt_id_proof3"
+         android:layout_width="fill_parent"
+         android:layout_height="wrap_content"
+         android:layout_marginTop="10dp"
+         android:orientation="horizontal" >
+   
+         <Spinner
+             android:id="@+id/witness_id_options3"
+             android:layout_width="100dp"
+             android:layout_height="35dp"
+             android:layout_gravity="center"
+             android:background="#9accff"
+             android:spinnerMode="dialog"
+             android:entries="@array/id_Options_list"
+             android:prompt="@string/id_Options_prompt" />
+ 	 
+ 	 <EditText
+ 	     android:id="@+id/witness_id_details3"
+ 	     android:layout_width="210dp"
+ 	     android:layout_height="35dp"
+ 	     android:layout_marginLeft="8dp"
+ 	     android:background="@drawable/edittext_white"
+ 	     android:hint="@string/radio_edittxt"
+ 	     android:inputType="textCapCharacters" 
+ 	     android:paddingLeft="5dp"
+ 	     android:singleLine="true"
+ 	     android:textColor="#000"
+ 	     android:textSize="20sp"
+ 	     android:text=""  />
+
+
+     </LinearLayout>
+ 
+ 
+ <Button
+        android:id="@+id/remve_witns3"
+        android:layout_width="120dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+        android:textColor="#ffffff"
+        android:background="@drawable/btns"
+        android:textSize="14sp"
+        android:text="Remove Witness" />
+ 
+
+
+  </LinearLayout>
+ 
+<!--****************** Witness Form 3 Ends *********************************-->
+ 
+<!--****************** Witness Form 4 Starts *********************************-->
+<LinearLayout 
+    	android:id="@+id/wt_layout4"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:orientation="vertical">
+        
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:text="Witness Form 4"
+        android:textColor="#ffffff"
+        android:textSize="22sp"
+        android:textStyle="bold" />
+    
+        
+    <LinearLayout
+    android:id="@+id/wt_name_layout4"
+    android:layout_width="fill_parent"
+    android:layout_height="40dp"
+    android:layout_marginTop="10dp"
+    android:orientation="horizontal" >
+
+   <TextView
+       android:layout_width="100dp"
+       android:layout_height="wrap_content"
+       android:layout_gravity="center"
+       android:paddingRight="40dp"
+       android:text="Name :"
+       android:textColor="#fff"
+       android:textSize="14sp"
+       android:textStyle="bold" />
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:text="@string/star"
+    android:textColor="#FF0000"
+    android:textSize="14sp"
+    android:textStyle="bold" />
+
+   <EditText
+       android:id="@+id/witness_name4"
+       android:layout_width="210dp"
+       android:layout_height="35dp"
+       android:layout_gravity="center"
+       android:background="@drawable/edittext_white"
+       android:text="" 
+       android:paddingLeft="5dp"
+       android:textColor="#000"
+       android:inputType="textCapCharacters"  
+       android:hint="Enter Name"
+       android:singleLine="true"
+       android:textSize="14sp" />
+   
+   <!-- <ImageView
+       android:id="@+id/edit_btn_pssprt_num"
+       android:layout_width="40dp"
+       android:layout_height="40dp"
+       android:layout_gravity="center"
+       android:layout_marginLeft="10dp"
+       android:contentDescription="@string/desc"
+       android:src="@drawable/edit" /> -->
+   
+</LinearLayout>
+
+ <LinearLayout
+    android:id="@+id/wt_fname_layout4"
+    android:layout_width="fill_parent"
+    android:layout_height="40dp"
+    android:layout_marginTop="10dp"
+    android:orientation="horizontal" >
+
+   <TextView
+       android:layout_width="100dp"
+       android:layout_height="wrap_content"
+       android:layout_gravity="center"
+       android:paddingRight="40dp"
+       android:text="Father Name :"
+       android:textColor="#fff"
+       android:textSize="14sp"
+       android:textStyle="bold" />
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:text="@string/star"
+    android:textColor="#FF0000"
+    android:textSize="14sp"
+    android:textStyle="bold" />
+
+   <EditText
+       android:id="@+id/witness_fname4"
+       android:layout_width="210dp"
+       android:layout_height="35dp"
+       android:layout_gravity="center"
+       android:background="@drawable/edittext_white"
+       android:text="" 
+       android:paddingLeft="5dp"
+       android:textColor="#000"
+       android:inputType="textCapCharacters"  
+       android:hint="Enter Father Name"
+       android:singleLine="true"
+       android:textSize="14sp" />
+   
+</LinearLayout>
+
+ <LinearLayout
+    android:id="@+id/wt_age_layout4"
+    android:layout_width="fill_parent"
+    android:layout_height="40dp"
+    android:layout_marginTop="10dp"
+    android:orientation="horizontal" >
+
+   <TextView
+       android:layout_width="100dp"
+       android:layout_height="wrap_content"
+       android:layout_gravity="center"
+       android:paddingRight="40dp"
+       android:text="Age :"
+       android:textColor="#fff"
+       android:textSize="14sp"
+       android:textStyle="bold" />
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:text="@string/star"
+    android:textColor="#FF0000"
+    android:textSize="14sp"
+    android:textStyle="bold" />
+
+   <EditText
+       android:id="@+id/witness_age4"
+       android:layout_width="210dp"
+       android:layout_height="35dp"
+       android:layout_gravity="center"
+       android:background="@drawable/edittext_white"
+       android:text="" 
+       android:paddingLeft="5dp"
+       android:textColor="#000"
+        
+       android:hint="Enter Age"
+       android:singleLine="true"
+       android:inputType="number"
+       android:maxLength="2"
+       android:textSize="14sp" />
+   
+</LinearLayout>
+
+ <LinearLayout
+ 	    android:id="@+id/wt_layout_gender4"
+ 	    android:layout_width="fill_parent"
+ 	    android:layout_height="40dp"
+ 	    android:layout_marginTop="5dp"
+ 	    android:orientation="horizontal" >
+
+   <TextView
+       android:layout_width="100dp"
+       android:layout_height="wrap_content"
+       android:layout_gravity="center"
+       android:paddingRight="5dp"
+       android:text="@string/gender"
+       android:textSize="14sp"
+       android:textColor="#ffffff"
+       android:textStyle="bold" />
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:text="@string/star"
+    android:textColor="#FF0000"
+    android:textSize="14sp"
+    android:textStyle="bold" />
+
+  <RadioGroup 
+      android:id="@+id/wt_gender_group4"
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content"
+      android:orientation="horizontal"
+      android:layout_gravity="center"
+      android:weightSum="1">
+
+   <RadioButton
+       android:id="@+id/wt_male4"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_weight="0.1"
+       android:text="@string/male"
+       android:scaleX="0.8"
+      android:scaleY="0.8"
+       android:textColor="#ffffff"
+       android:textSize="14sp" />
+   
+      <RadioButton
+          android:id="@+id/wt_female4"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_weight="0.1"
+          android:text="@string/female"
+          android:scaleX="0.8"
+      		android:scaleY="0.8"
+          android:textColor="#ffffff"
+          android:textSize="14sp" />
+      
+         <RadioButton
+             android:id="@+id/wt_other4"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_weight="0.1"
+             android:scaleX="0.8"
+      		android:scaleY="0.8"
+             android:text="@string/other"
+             android:textColor="#ffffff"
+             android:textSize="14sp" />
+   
+   </RadioGroup>
+
+ <!--   <ImageView
+       android:id="@+id/edit_btn_gender"
+       android:layout_width="40dp"
+       android:layout_height="40dp"
+       android:layout_gravity="center"
+       android:layout_marginLeft="10dp"
+       android:contentDescription="@string/desc"
+       android:src="@drawable/edit" /> -->
+   
+</LinearLayout> 
+ 
+ 
+ <LinearLayout
+    android:id="@+id/wt_phone_layout4"
+    android:layout_width="fill_parent"
+    android:layout_height="40dp"
+    android:layout_marginTop="10dp"
+    android:orientation="horizontal" >
+
+   <TextView
+       android:layout_width="100dp"
+       android:layout_height="wrap_content"
+       android:layout_gravity="center"
+       android:paddingRight="40dp"
+       android:text="Phone Number :"
+       android:textColor="#fff"
+       android:textSize="14sp"
+       android:textStyle="bold" />
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:text="@string/star"
+    android:textColor="#FF0000"
+    android:textSize="14sp"
+    android:textStyle="bold" />
+
+   <EditText
+       android:id="@+id/witness_phone4"
+       android:layout_width="210dp"
+       android:layout_height="35dp"
+       android:layout_gravity="center"
+       android:background="@drawable/edittext_white"
+       android:text="" 
+       android:paddingLeft="5dp"
+       android:textColor="#000"
+        
+       android:hint="Enter Phone Number"
+       android:singleLine="true"
+       android:inputType="number"
+       android:maxLength="10"
+       android:textSize="14sp" />
+   
+  
+   
+</LinearLayout>
+
+ <LinearLayout
+     android:id="@+id/wt_address_layout4"
+     android:layout_width="fill_parent"
+     android:layout_height="80dp"
+     android:layout_marginTop="10dp"
+     android:orientation="horizontal" >
+
+   <TextView
+       android:layout_width="100dp"
+       android:layout_height="wrap_content"
+       android:layout_gravity="top"
+       android:paddingRight="40dp"
+       android:text="Address :"
+       android:textColor="#fff"
+       android:textSize="14sp"
+       android:textStyle="bold" />
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="top"
+    android:text="@string/star"
+    android:textColor="#FF0000"
+    android:textSize="14sp"
+    android:textStyle="bold" />
+
+   <EditText
+       android:id="@+id/witness_address4"
+       android:layout_width="210dp"
+       android:layout_height="80dp"
+       android:background="@drawable/edittext_white"
+       android:gravity="top|left"
+       android:hint="Enter Complete Address"
+       android:inputType="textMultiLine|textCapCharacters"
+       android:lines="6"
+       android:maxLines="8"
+       android:minLines="6"
+       android:paddingLeft="5dp"
+       android:paddingTop="2dp"
+       android:text=""
+       android:textColor="#000"
+       android:textSize="14sp"
+       android:scrollbars="vertical" />
+   
+</LinearLayout>
+
+ <LinearLayout
+    android:id="@+id/wt_city_layout4"
+    android:layout_width="fill_parent"
+    android:layout_height="40dp"
+    android:layout_marginTop="10dp"
+    android:orientation="horizontal" >
+
+   <TextView
+       android:layout_width="100dp"
+       android:layout_height="wrap_content"
+       android:layout_gravity="center"
+       android:paddingRight="40dp"
+       android:text="City / District :"
+       android:textColor="#fff"
+       android:textSize="14sp"
+       android:textStyle="bold" />
+
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:text="@string/star"
+    android:textColor="#FF0000"
+    android:textSize="14sp"
+    android:textStyle="bold" />
+
+   <EditText
+       android:id="@+id/witness_city4"
+       android:layout_width="210dp"
+       android:layout_height="35dp"
+       android:layout_gravity="center"
+       android:background="@drawable/edittext_white"
+       android:text="" 
+       android:paddingLeft="5dp"
+       android:textColor="#000"
+       android:inputType="textCapCharacters"  
+       android:hint="Enter City Name"
+       android:singleLine="true"
+       android:textSize="14sp" />
+   
+  
+   
+</LinearLayout>
+ 
+ 
+ <LinearLayout
+         android:id="@+id/wt_id_proof4"
+         android:layout_width="fill_parent"
+         android:layout_height="wrap_content"
+         android:layout_marginTop="10dp"
+         android:orientation="horizontal" >
+   
+         <Spinner
+             android:id="@+id/witness_id_options4"
+             android:layout_width="100dp"
+             android:layout_height="35dp"
+             android:layout_gravity="center"
+             android:background="#9accff"
+             android:spinnerMode="dialog"
+             android:entries="@array/id_Options_list"
+             android:prompt="@string/id_Options_prompt" />
+ 	 
+ 	 <EditText
+ 	     android:id="@+id/witness_id_details4"
+ 	     android:layout_width="210dp"
+ 	     android:layout_height="35dp"
+ 	     android:layout_marginLeft="8dp"
+ 	     android:background="@drawable/edittext_white"
+ 	     android:hint="@string/radio_edittxt"
+ 	     android:inputType="textCapCharacters" 
+ 	     android:paddingLeft="5dp"
+ 	     android:singleLine="true"
+ 	     android:textColor="#000"
+ 	     android:textSize="20sp"
+ 	     android:text=""  />
+
+
+     </LinearLayout>
+ 
+ 
+ <Button
+        android:id="@+id/remve_witns4"
+        android:layout_width="120dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+        android:textColor="#ffffff"
+        android:background="@drawable/btns"
+        android:textSize="14sp"
+        android:text="Remove Witness" />
+ 
+
+
+  </LinearLayout>
+  
+<!--****************** Witness Form 4 Ends *********************************-->
+
+ <Button
+     android:id="@+id/add_witns"
+     android:layout_width="120dp"
+     android:layout_height="40dp"
+     android:layout_gravity="center"
+     android:layout_marginTop="10dp"
+     android:textColor="#ffffff"
+     android:background="@drawable/btns"
+     android:text="Add Witness"
+     android:textSize="14sp" />
+ 
+ <LinearLayout
+     android:layout_width="fill_parent"
+     android:layout_height="wrap_content"
+     android:layout_marginTop="10dp"
+     android:orientation="horizontal"
+     android:paddingLeft="10dp"
+     android:paddingTop="15dp"
+     android:weightSum="1" >
+
+     <ImageView
+         android:id="@+id/back_btn"
+         android:layout_width="40dp"
+         android:layout_height="30dp"
+         android:layout_weight="0.2"
+         android:contentDescription="@string/desc"
+         android:gravity="right"
+         android:src="@drawable/back" />
+ 
+ <ImageView
+     android:id="@+id/submit_btn"
+     android:layout_width="40dp"
+     android:layout_height="30dp"
+     android:layout_weight="0.4"
+     android:contentDescription="@string/desc"
+     android:gravity="right"
+     android:src="@drawable/save" />
+ 
+  <!-- <ImageView
+     android:id="@+id/next_btn"
+     android:layout_width="40dp"
+     android:layout_height="40dp"
+     android:layout_weight="0.3"
+     android:contentDescription="@string/desc"
+     android:gravity="right"
+     android:src="@drawable/next" /> --> 
+     
+  
+ 		 
+ 	</LinearLayout>
+
+  </LinearLayout> 
+  
+    </ScrollView>
+    
+ <LinearLayout
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_marginBottom="0dp"
+    android:gravity="bottom|center"
+    android:orientation="vertical" >
+
+<!-- <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="0dp"
+    android:gravity="center"
+    android:text="An Integrated Petty case CP Act under the Hyderabad Policing System"
+    android:textColor="#FF0000"
+    android:textSize="18sp"
+    android:textStyle="bold" /> -->
+
+     <TextView
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:gravity="center"
+         android:layout_marginTop="0dp"
+         android:text="DEVELOPED BY MOTHER TECHNOLOGIES PROJECT VENTURES"
+         android:textColor="#cccccc"
+         android:textSize="10sp"
+         android:layout_marginBottom="5dp"
+         android:textStyle="bold" />
+
+  </LinearLayout>
+  
+</LinearLayout>

@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg1"
+    android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/header"
+            android:layout_width="fill_parent"
+            android:layout_height="130dp"
+            android:contentDescription="@string/desc"
+            android:scaleType="fitXY"
+            android:src="@drawable/headerlogo" />
+        
+        <TextView
+		    android:id="@+id/version"
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_gravity="center"
+		    android:layout_marginTop="-23dp"
+		    android:text="@string/version"
+		    android:textColor="#fff"
+		    android:textSize="18sp"
+		    android:textStyle="bold" />
+  <ScrollView 
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content">
+  
+  <LinearLayout
+    android:id="@+id/full"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_marginBottom="0dp"
+    android:orientation="vertical" >
+   
+<LinearLayout
+    android:id="@+id/respondent"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_marginBottom="0dp"
+    android:background="@drawable/iconstyle"
+    android:layout_marginRight="20dp"
+    android:layout_marginLeft="20dp"
+    android:layout_marginTop="20dp"
+    android:orientation="vertical" >
+    
+    <TextView
+       android:layout_width="fill_parent"
+       android:layout_height="wrap_content"
+       android:paddingRight="40dp"
+       android:gravity="center"
+       android:layout_marginLeft="20dp"
+       android:layout_marginRight="20dp"
+       android:layout_marginTop="10dp"
+       android:textColor="#000000"
+       android:text="Respondent Details"
+       android:visibility="visible"
+       android:textStyle="bold"
+       android:textSize="30sp"
+          />
+    
+    <TextView
+       android:id="@+id/respondent_text"
+       android:layout_width="fill_parent"
+       android:layout_height="wrap_content"
+       android:paddingRight="40dp"
+       android:layout_gravity="center"
+       android:layout_marginLeft="20dp"
+       android:layout_marginRight="20dp"
+       android:layout_marginBottom="10dp"
+       android:textColor="#000000"
+       android:visibility="visible"
+       android:textStyle="bold"
+       android:textSize="20sp"
+          />
+    
+    <ImageView
+         android:id="@+id/respondent_edit"
+         android:layout_width="100dp"
+         android:layout_height="50dp"
+         android:contentDescription="@string/desc"
+         android:layout_gravity="right"
+         android:src="@drawable/edit_button" />
+    
+</LinearLayout>
+
+<LinearLayout
+    android:id="@+id/leaser_preview"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_marginBottom="0dp"
+    android:background="@drawable/iconstyle"
+    android:layout_marginRight="20dp"
+    android:layout_marginLeft="20dp"
+    android:layout_marginTop="20dp"
+    android:orientation="vertical" >
+    
+    <TextView
+       android:layout_width="fill_parent"
+       android:layout_height="wrap_content"
+       android:paddingRight="40dp"
+       android:gravity="center"
+       android:layout_marginLeft="20dp"
+       android:layout_marginRight="20dp"
+       android:layout_marginTop="10dp"
+       android:textColor="#000000"
+       android:text="Leaser Details"
+       android:visibility="visible"
+       android:textStyle="bold"
+       android:textSize="30sp"
+          />
+    
+    <TextView
+       android:id="@+id/leaser_text"
+       android:layout_width="fill_parent"
+       android:layout_height="wrap_content"
+       android:paddingRight="40dp"
+       android:layout_gravity="center"
+       android:layout_marginLeft="20dp"
+       android:layout_marginRight="20dp"
+       android:layout_marginBottom="10dp"
+       android:textColor="#000000"
+       android:visibility="visible"
+       android:textStyle="bold"
+       android:textSize="20sp"
+          />
+    
+    <ImageView
+         android:id="@+id/leaser_edit"
+         android:layout_width="100dp"
+         android:layout_height="50dp"
+         android:contentDescription="@string/desc"
+         android:layout_gravity="right"
+         android:src="@drawable/edit_button" />
+    
+</LinearLayout>
+
+<LinearLayout
+    android:id="@+id/manager_preview"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_marginBottom="0dp"
+    android:background="@drawable/iconstyle"
+    android:layout_marginRight="20dp"
+    android:layout_marginLeft="20dp"
+    android:layout_marginTop="20dp"
+    android:orientation="vertical" >
+    
+    <TextView
+       android:layout_width="fill_parent"
+       android:layout_height="wrap_content"
+       android:paddingRight="40dp"
+       android:gravity="center"
+       android:layout_marginLeft="20dp"
+       android:layout_marginRight="20dp"
+       android:layout_marginTop="10dp"
+       android:textColor="#000000"
+       android:text="Manager Details"
+       android:visibility="visible"
+       android:textStyle="bold"
+       android:textSize="30sp"
+          />
+    
+    <TextView
+       android:id="@+id/manager_text"
+       android:layout_width="fill_parent"
+       android:layout_height="wrap_content"
+       android:paddingRight="40dp"
+       android:layout_gravity="center"
+       android:layout_marginLeft="20dp"
+       android:layout_marginRight="20dp"
+       android:layout_marginBottom="10dp"
+       android:textColor="#000000"
+       android:visibility="visible"
+       android:textStyle="bold"
+       android:textSize="20sp"
+          />
+    
+    <ImageView
+         android:id="@+id/manager_edit"
+         android:layout_width="100dp"
+         android:layout_height="50dp"
+         android:contentDescription="@string/desc"
+         android:layout_gravity="right"
+         android:src="@drawable/edit_button" />
+    
+</LinearLayout>
+
+
+<LinearLayout
+    android:id="@+id/witness"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_marginBottom="0dp"
+    android:background="@drawable/iconstyle"
+    android:layout_marginRight="20dp"
+    android:layout_marginLeft="20dp"
+    android:layout_marginTop="20dp"
+    android:orientation="vertical" >
+    
+    <TextView
+       android:layout_width="fill_parent"
+       android:layout_height="wrap_content"
+       android:paddingRight="40dp"
+       android:gravity="center"
+       android:layout_marginLeft="20dp"
+       android:layout_marginRight="20dp"
+       android:layout_marginTop="10dp"
+       android:textColor="#000000"
+       android:text="Witness Details"
+       android:visibility="visible"
+       android:textStyle="bold"
+       android:textSize="30sp"
+          />
+    
+    
+    
+    <TextView
+       android:id="@+id/witness_text"
+       android:layout_width="fill_parent"
+       android:layout_height="wrap_content"
+       android:paddingRight="40dp"
+       android:layout_gravity="center"
+       android:layout_marginLeft="20dp"
+       android:layout_marginRight="20dp"
+       android:layout_marginBottom="10dp"
+       android:textColor="#000000"
+       android:textStyle="bold"
+       android:textSize="20sp"
+          />
+    
+    <ImageView
+         android:id="@+id/witnesss_edit"
+         android:layout_width="100dp"
+         android:layout_height="50dp"
+         android:contentDescription="@string/desc"
+         android:layout_gravity="right"
+         android:src="@drawable/edit_button" />
+    
+    
+</LinearLayout>
+
+ 
+<LinearLayout
+    android:id="@+id/sections"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_marginBottom="0dp"
+    android:background="@drawable/iconstyle"
+    android:layout_marginRight="20dp"
+    android:layout_marginLeft="20dp"
+    android:layout_marginTop="20dp"
+    android:orientation="vertical" >
+    
+     <TextView
+       android:layout_width="fill_parent"
+       android:layout_height="wrap_content"
+       android:paddingRight="40dp"
+       android:gravity="center"
+       android:layout_marginLeft="20dp"
+       android:layout_marginRight="20dp"
+       android:layout_marginTop="10dp"
+       android:textColor="#000000"
+       android:text="Sections Added"
+       android:visibility="visible"
+       android:textStyle="bold"
+       android:textSize="30sp"
+          />
+    
+     <TextView
+       android:id="@+id/sections_text"
+       android:layout_width="fill_parent"
+       android:layout_height="wrap_content"
+       android:paddingRight="40dp"
+       android:layout_gravity="center"
+       android:layout_marginLeft="20dp"
+       android:layout_marginRight="20dp"
+       android:layout_marginBottom="10dp"
+       android:textColor="#000000"
+       android:textStyle="bold"
+       android:visibility="visible"
+       android:textSize="20sp"
+          />
+     
+     <ImageView
+         android:id="@+id/section_edit"
+         android:layout_width="100dp"
+         android:layout_height="50dp"
+         android:layout_gravity="right"
+         android:contentDescription="@string/desc"
+         android:src="@drawable/edit_button" />
+
+</LinearLayout>
+
+
+<LinearLayout
+    android:id="@+id/seized"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_marginBottom="0dp"
+    android:background="@drawable/iconstyle"
+    android:layout_marginRight="20dp"
+    android:layout_marginLeft="20dp"
+    android:layout_marginTop="20dp"
+    android:orientation="vertical" >
+     
+     <TextView
+       android:layout_width="fill_parent"
+       android:layout_height="wrap_content"
+       android:paddingRight="40dp"
+       android:gravity="center"
+       android:layout_marginLeft="20dp"
+       android:layout_marginRight="20dp"
+       android:layout_marginTop="10dp"
+       android:textColor="#000000"
+       android:text="Seized Items"
+       android:visibility="visible"
+       android:textStyle="bold"
+       android:textSize="30sp"
+          />
+     
+     <TextView
+       android:id="@+id/seized_text"
+       android:layout_width="fill_parent"
+       android:layout_height="wrap_content"
+       android:paddingRight="40dp"
+       android:layout_gravity="center"
+       android:layout_marginLeft="20dp"
+       android:layout_marginRight="20dp"
+       android:layout_marginBottom="10dp"
+       android:textColor="#000000"
+       android:visibility="visible"
+       android:textStyle="bold"
+       android:textSize="20sp"
+          />
+    <ImageView
+         android:id="@+id/seized_edit"
+         android:layout_width="100dp"
+         android:layout_height="50dp"
+         android:layout_gravity="right"
+         android:contentDescription="@string/desc"
+         android:src="@drawable/edit_button" />
+</LinearLayout>
+  
+<LinearLayout
+    android:layout_width="fill_parent"
+    android:layout_height="80dp"
+    android:layout_marginTop="20dp"
+    android:gravity="center"
+    android:orientation="horizontal"
+    android:paddingLeft="10dp"
+    android:weightSum="1" >
+
+     <!-- <ImageView
+         android:id="@+id/edit"
+         android:layout_width="120dp"
+         android:layout_height="60dp"
+         android:contentDescription="@string/desc"
+         android:gravity="center"
+         android:src="@drawable/edit_button" /> -->
+
+		<ImageView
+		    android:id="@+id/confirm"
+		    android:layout_width="150dp"
+		    android:layout_height="60dp"
+		    android:contentDescription="@string/desc"
+		    android:gravity="center"
+		    android:src="@drawable/confirm" />
+ 	
+ 		 </LinearLayout>
+</LinearLayout> 
+
+  
+  
+  </ScrollView>
+
+<LinearLayout
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_marginBottom="0dp"
+    android:gravity="bottom|center"
+    android:orientation="vertical" >
+
+<!-- <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="0dp"
+    android:gravity="center"
+    android:text="An Integrated Petty case CP Act under the Hyderabad Policing System"
+    android:textColor="#FF0000"
+    android:textSize="18sp"
+    android:textStyle="bold" /> -->
+
+     <TextView
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:gravity="center"
+         android:layout_marginTop="0dp"
+         android:text="DEVELOPED BY MOTHER TECHNOLOGIES PROJECT VENTURES"
+         android:textColor="#cccccc"
+         android:textSize="16sp"
+         android:layout_marginBottom="5dp"
+         android:textStyle="bold" />
+
+  </LinearLayout>
+  
+
+</LinearLayout>

@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\menu\\witness_form.xml",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\menu\\witness_form.xml"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\menu\\reports.xml",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\menu\\reports.xml"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\menu\\preview.xml",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\menu\\preview.xml"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\menu\\challan__generation.xml",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\menu\\challan__generation.xml"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu__dashboard_.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\menu\\menu__dashboard_.xml"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\menu\\add__sections.xml",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\menu\\add__sections.xml"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\menu\\duplicate__sample.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\menu\\duplicate__sample.xml"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\menu\\previous_history.xml",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\menu\\previous_history.xml"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\menu\\siezed_items.xml",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\menu\\siezed_items.xml"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\menu\\siezed_items.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\menu\\siezed_items.xml"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\menu\\ip__settings.xml",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\menu\\ip__settings.xml"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\menu\\duplicate_print.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\menu\\duplicate_print.xml"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\menu\\add__sections.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\menu\\add__sections.xml"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu__dashboard_.xml",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\menu\\menu__dashboard_.xml"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\menu\\challan__generation.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\menu\\challan__generation.xml"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\menu\\preview.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\menu\\preview.xml"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\menu\\ot.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\menu\\ot.xml"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\menu\\offender.xml",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\menu\\offender.xml"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\menu\\duplicate__sample.xml",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\menu\\duplicate__sample.xml"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\menu\\ip__settings.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\menu\\ip__settings.xml"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\menu\\ot.xml",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\menu\\ot.xml"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\menu\\duplicate_print.xml",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\menu\\duplicate_print.xml"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\menu\\offender.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\menu\\offender.xml"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\menu\\reports.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\menu\\reports.xml"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\menu\\witness_form.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\menu\\witness_form.xml"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\menu\\previous_history.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\menu\\previous_history.xml"
+    }
+]

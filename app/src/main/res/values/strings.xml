@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hyderabad\nePettyCase</string>
+    <string name="language">en</string>
+    <string name="actMain_name">Law and Order App</string>
+    <string name="actMain_link_device_info_title">Selected Device :</string>
+    <string name="actMain_link_device_service_uuid">Service\'s UUID：</string>
+    <string name="actMain_find_service_uuids">Searching services list&#8230;</string>
+    <string name="actMain_not_find_service_uuids">Not find services list.</string>
+    <string name="actMain_device_info">%1$s</string>
+    <string name="actMain_btn_pair">Pair</string>
+    <string name="actMain_btn_comm">Connect</string>
+    <string name="actMain_tv_hint_service_uuid_not_bond">Please create pair.</string>
+    <string name="actMain_tv_select_mode">Select communication mode</string>
+    <string name="actMain_msg_does_not_support_uuid_service">Android version does not support this.</string>
+    <string name="actMain_msg_bluetooth_Bonding">pairing&#8230;</string>
+    <string name="actMain_msg_device_connecting">Connecting device&#8230;</string>
+    <string name="actMain_msg_device_connect_fail">Communication failure</string>
+    <string name="actMain_msg_device_connect_succes">Successful connection</string>
+    <string name="actMain_msg_bluetooth_Bond_Success">Pairing successful</string>
+    <string name="actMain_msg_bluetooth_Bond_fail">Pairing failed</string>
+    <string name="actMain_msg_pair_pwd_error">The pairing password must be 4 digits</string>
+    <string name="actMain_menu_rescan">Rescan</string>
+    <string name="actDiscovery_name">FacTP Demo app</string>
+    <string name="actDiscovery_msg_select_device">Select the device you need to connect</string>
+    <string name="actDiscovery_msg_not_find_device">Devices not found</string>
+    <string name="actDiscovery_msg_scaning_device">Scanning for Bluetooth Devices, Please wait&#8230;</string>
+    <string name="actDiscovery_msg_starting_device">Starting Bluetooth &#8230;</string>
+    <string name="actDiscovery_msg_start_bluetooth_fail">Bluetooth device start fail</string>
+    <string name="actDiscovery_msg_bluetooth_not_start">Bluetooth is not enabled</string>
+    <string name="actDiscovery_menu_scan">Scan</string>
+    <string name="actDiscovery_bond_bonded">Bonded</string>
+    <string name="actDiscovery_bond_nothing">Nothing</string>
+    <string name="actByteStream_name">Byte stream mode</string>
+    <string name="actByteStream_input_hint">input the send commands</string>
+    <string name="actByteStream_btn_send_desc">Send button</string>
+    <string name="actByteStream_tv_receive_text">Data receive</string>
+    <string name="actCmdLine_name">CMD line mode</string>
+    <string name="actCmdLine_input_hint">input char (press [Enter] key)</string>
+    <string name="actCmdLine_msg_helper">Current end flag: %1$s,Click [send] button finished sending, at the soft keyboard;\n\n</string>
+    <string name="actCmdLine_dialog_title_end_flg">Set command end flag</string>
+    <string name="actCmdLine_et_hint_end_flg_val">Command end flag(HEX format)</string>
+    <string name="actKeyBoard_name">Keyboard mode</string>
+    <string name="actKeyBoard_tv_Init">Set the buttons properties, click [Set end flag]. \n</string>
+    <string name="actKeyBoard_tv_set_btnname">BTN Name</string>
+    <string name="actKeyBoard_tv_set_btnname_hint">button display name</string>
+    <string name="actKeyBoard_tv_long_pass_freq_hint">Unit ms，must be >%1$d</string>
+    <string name="actKeyBoard_set_btn_down_send_value">BTN Down </string>
+    <string name="actKeyBoard_set_btn_hold_send_value">BTN Hold</string>
+    <string name="actKeyBoard_set_btn_up_send_value">BTN Up</string>
+    <string name="actKeyBoard_set_send_value_hint">Input send value</string>
+    <string name="actKeyBoard_tv_set_keyboard_helper">Now is the keyboard setting mode, Click the button area that setting.\n Click [Buttons set complete]back to send mode.\n</string>
+    <string name="actKeyBoard_msg_helper_endflg">Command line last chars is: %1$s;\n</string>
+    <string name="actKeyBoard_msg_repeat_freq_set">Long-press the trigger frequency: %1$dms;</string>
+    <string name="actAbout_name">About me</string>
+    <string name="dialog_title_sys_err">System Error</string>
+    <string name="dialog_title_alert">Alert</string>
+    <string name="dialog_title_io_mode_set">IO mode selection</string>
+    <string name="dialog_title_end_flg">Set end flag</string>
+    <string name="dialog_title_keyboard_set">Button Function setting</string>
+    <string name="dialog_title_keyboard_long_pass_frea">Long-press repeatedly freq(ms)</string>
+    <string name="dialog_io_mode_input_set">Input type</string>
+    <string name="dialog_io_mode_output_set">Output type</string>
+    <string name="dialog_io_mode_ascii">ASCII</string>
+    <string name="dialog_io_mode_hex">Hex(00-FF)</string>
+    <string name="dialog_end_flg_select">Select end flag template:</string>
+    <string name="dialog_end_flg_rn">Char(\'\\r\\n\')</string>
+    <string name="dialog_end_flg_n">Char(\'\\n\')</string>
+    <string name="dialog_end_flg_other">Other</string>
+    <string name="dialog_end_flg_hex_val">HEX value of the end flag:</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_click_me">ClickMe</string>
+    <string name="tv_send_area_title">Sent data area</string>
+    <string name="tv_receive_area_title">Received data area</string>
+    <string name="menu_close">Close</string>
+    <string name="menu_clear">Clear</string>
+    <string name="menu_io_mode">Set IO mode</string>
+    <string name="menu_save_to_file">Save2File</string>
+    <string name="menu_clear_cmd_history">Clear History</string>
+    <string name="menu_set_stop_flg">Set end flag</string>
+    <string name="menu_helper">Helper</string>
+    <string name="menu_set_key_board_start">Buttons set</string>
+    <string name="menu_set_key_board_end">Buttons set complete</string>
+    <string name="menu_set_key_board_event">Set trigger mode</string>
+    <string name="menu_set_button_long_pass_freq">Set Long-press freq</string>
+    <string name="menu_about">About</string>
+    <string name="device_type_bredr">BR/EDR Bluetooth</string>
+    <string name="device_type_ble">Low Energy Bluetooth</string>
+    <string name="device_type_dumo">Duplex mode Bluetooth</string>
+    <string name="templet_txd">Txd: %1$dB</string>
+    <string name="templet_rxd">Rxd: %1$dB</string>
+    <string name="templet_hold_time">Running: %1$ds</string>
+    <string name="msg_send_data_fail">Failed to send data</string>
+    <string name="msg_not_hex_string">Invalid HEX string</string>
+    <string name="msg_save_file_fail">Failed to save the file</string>
+    <string name="msg_receive_data_wating">Waiting to receive&#8230;\n</string>
+    <string name="msg_receive_data_stop">Receiver terminated</string>
+    <string name="msg_msg_bt_connect_lost">Bluetooth device communications connection is lost, try to reconnect</string>
+    <string name="msg_helper_endflg_nothing">End flag is not set. Click [Set end flag] set;\n</string>
+    <string name="tips_click_to_hide">Click hidden</string>
+    <string name="tips_click_to_show">Click show</string>
+    <string name="printer">Printer</string>
+    <string name="fps">FPS</string>
+    <string name="Magneticcard">Mag Card</string>
+    <string name="smartcard">Smart Card</string>
+    <string name="serial">Serial Port</string>
+    <string name="Connect">Connect</string>
+    <string name="testprint">Test Print</string>
+    <string name="logoprint">Evolute Logo</string>
+    <string name="customtext">Custom Text</string>
+    <string name="diagnostics">Diagnostics</string>
+    <string name="unicode">UniCode</string>
+    <string name="paperfeed">Paperfeed</string>
+    <string name="bitmap">Bitmap Print</string>
+    <string name="barcode">Barcode Print</string>
+    <string name="lineprint">Line Print</string>
+    <string name="capturefinger">Capture Finger</string>
+    <string name="verify">Verify finger</string>
+    <string name="imagecompressed">Image Compressed</string>
+    <string name="verifycompresees">Verify Compressed</string>
+    <string name="ImageUncompressed">Image Uncompressed</string>
+    <string name="verifyUncompressed">Verify Uncompressed</string>
+    <string name="verifymany">Verify Many</string>
+    <string name="verifymatch">Verify Match</string>
+    <string name="readmagcard">Read MagCard</string>
+    <string name="display1">Display Track1</string>
+    <string name="display2">Dispaly Track2</string>
+    <string name="powerup">Power Up</string>
+    <string name="powerdown">Power Down</string>
+    <string name="cardstatus">Card Status</string>
+    <string name="powedown">Power Down</string>
+    <string name="sendapdu">Send APDU</string>
+    <string name="readbinary">Read Binary</string>
+    <string name="ScanBarcode">Scan Barcode</string>
+    <string name="senddata">Send Data</string>
+    <string name="Returncode">ReturnCode</string>
+    <string name="not_connected">You are not connected to a device</string>
+    <string name="bt_not_enabled_leaving">Bluetooth was not enabled. Exiting Application.</string>
+    <string name="title_connecting">connecting...</string>
+    <string name="title_not_connected">not connected</string>
+    <string name="appinfo">Version: 1.06</string>
+    <!-- DeviceListActivity -->
+    <string name="scanning">Scanning for devices...</string>
+    <string name="select_device">Select a device to connect</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="none_found">No devices found</string>
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="title_other_devices">Other Available Devices</string>
+    <string name="button_scan">Scan for devices</string>
+    <string name="note">Note </string>
+    <!-- Options Menu -->
+    <string name="menu_quit">Quit</string>
+    <string name="about">Prowess Demo App Uses Prowess SDK, it used to communicate to Leopard which having peripherals like</string>
+    <string name="information">This application has been designed to work with Law and Order BioMetric device.\nLaw and Order Prowess SDK is available from Law and Order System as per request.</string>
+    <string name="radio_9600">9600</string>
+    <string name="radio_11520">115200</string>
+    <string name="ibc">IBC</string>
+    <string name="btn_display">Display</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="heading_prompt">Choose an Option</string>
+
+    <string-array name="option_menu" textsize="12sp">
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+
+    <string name="reports_prompt">Select Report Type</string>
+
+    <string-array name="reports_menu">
+        <item>-Select Report Type-</item>
+        <item>Officer DSR Report</item>
+        <item>PS DSR Report</item>
+    </string-array>
+
+    <string name="id_Options_prompt">Choose an Option</string>
+
+    <string-array name="id_Options_list">
+        <item>Aadhar</item>
+        <!-- <item>Select ID</item>
+        <item>Driving License</item>
+        <item>Vehicle RC</item>
+        <item>PAN Card</item>
+        <item>Voter ID</item>
+        <item>Ration Card</item>
+        <item>Passport</item>
+        <item>Contact Number</item> -->
+    </string-array>
+
+    <string name="qualification_prompt">Choose an Option</string>
+
+    <string-array name="qualification_list">
+        <item>-Select Qualification-</item>
+        <item>SSC</item>
+        <item>Intermediate</item>
+        <item>B.Tech</item>
+        <item>B.Sc</item>
+        <item>MCA</item>
+        <item>MBA</item>
+        <item>Mcom</item>
+        <item>Others</item>
+    </string-array>
+
+    <string name="occupation_prompt">Choose an Option</string>
+
+    <string-array name="occupation_list">
+        <item>-Select Occupation-</item>
+        <item>Software Engineer</item>
+        <item>Farmer</item>
+        <item>Bussiness</item>
+        <item>Carpenter</item>
+    </string-array>
+
+    <!-- **** UserLogin ***** -->
+    <string name="welcome">Welcome</string>
+    <string name="secondLine">e-Petty Case System</string>
+    <string name="third">For</string>
+    <string name="fourth">Hyderabad City Police Commissionerate</string>
+    <string name="username">23001004</string>
+    <string name="password"></string>
+
+    <!-- **** DashBoard Page **** -->
+    <string name="psname">PS Name :</string>
+    <string name="officername">Officer Name :</string>
+    <string name="generatecase">Generate ePetty Case</string>
+
+    <!-- **** Add Sections Page **** -->
+    <string name="warning_text">*** Please Click on Section Name to Select Section ***</string>
+    <string name="facts">Brief Facts :</string>
+    <string name="footer">DEVELOPED BY MOTHER TECHNOLOGIES PROJECT VENTURES</string>
+
+    <!-- **** FPT Page **** -->
+    <string name="place_finger">Select Finger to Scan</string>
+    <string name="leftthumb">Left Thumb</string>
+    <string name="leftindex">Left Index Finger</string>
+    <string name="leftmiddle">Left Middle Finger</string>
+    <string name="leftring">Left Ring Finger</string>
+    <string name="leftlittle">Left Little Finger</string>
+    <string name="noleft">No Left Arm</string>
+    <string name="rightthumb">Right Thumb</string>
+    <string name="rightindex">Right Index Finger</string>
+    <string name="rightmiddle">Right Middle Finger</string>
+    <string name="rightring">Right Ring Finger</string>
+    <string name="rightlittle">Right Little Finger</string>
+    <string name="noright">No Right Arm</string>
+    <string name="more">More</string>
+
+    <!-- **** Bluetooth Scan ****** -->
+    <string name="scandevices">Scan BT Devices</string>
+    <string name="exit">Exit</string>
+
+    <!-- **** Offender Page **** -->
+    <string name="time">Time</string>
+    <string name="caputer1">captFing_txt1</string>
+    <string name="caputer2">captFing_txt2</string>
+    <string name="caputer3">captFing_txt3</string>
+    <string name="caputer4">captFing_txt4</string>
+    <string name="capture_pics">Please Capture Scene Photos</string>
+    <string name="person_based">Person Based</string>
+    <string name="firm_based">Firm Based</string>
+    <string name="id_proofyes">Yes</string>
+    <string name="id_proofno">No</string>
+    <string name="select_idhint">Selected ID</string>
+    <string name="respondent1">Respondent Details</string>
+    <string name="firmname">Firm Name</string>
+    <string name="firmname_hint">Enter Shop Name</string>
+    <string name="firm_ownername">Firm Owner Name</string>
+    <string name="firm_ownername_hint">Enter Shop Owner Name</string>
+    <string name="tin_no">TIN No</string>
+    <string name="tin_no_hint">Enter TIN Number</string>
+    <string name="father_hint">Enter Father Name</string>
+    <string name="phone">Mobile No</string>
+    <string name="phone_hint">Enter Phone Number</string>
+    <string name="age">Age</string>
+    <string name="age_hint">Enter Age</string>
+    <string name="address">Address</string>
+    <string name="address_hint">Enter Complete Address</string>
+    <string name="click_addImage">Click to Add Image</string>
+    <string name="click_addFPs">Click to Add Finger Print</string>
+    <string name="add_resp_btn">Add Respondent</string>
+    
+    <string name="add_leaser_btn">Add Leaser</string>
+    <string name="add_manager_btn">Add Manager</string>
+    
+    <string name="add_sections">Add Sections</string>
+    <string name="witness_btn">Witness Form</string>
+    <string name="seizedItems">Seized Items</string>
+    <string name="respondent2">Respondent 2 Details</string>
+    <string name="remove_resp">Remove Respondent</string>
+    <string name="respondent3">Respondent 3 Details</string>
+    <string name="respondent4">Respondent 4 Details</string>
+    <string name="witness_details">Witness Details</string>
+    <string name="sections_added">Sections Added</string>
+    <string name="idproof_based">ID Proof Based</string>
+    <string name="fps_based">Finger Print Based</string>
+    <string name="submit">Submit</string>
+    <string name="symbol">:</string>
+
+    <!-- ****** Witness Page ******* -->
+    <string name="witness_particulars">Witness Particulars</string>
+    <string name="wt_name">Name </string>
+    <string name="wt_name_hint">Enter Name </string>
+    <string name="locality">City / District</string>
+    <string name="locality_hint">Enter City/District Name</string>
+    <string name="add_wt">Add Witness</string>
+    <string name="wt_form2">Witness Form 2</string>
+    <string name="wt_form3">Witness Form 3</string>
+    <string name="wt_form4">Witness Form 4</string>
+    <string name="remove_wt">Remove Witness</string>
+    
+    
+    
+    <!-- ****** Leaser Page ******* -->
+    <string name="leaser_name">Leaser Name </string>
+    <string name="leaser_name_hint">Enter Leaser Name </string>
+    <string name="leaser_father_name">Father Name </string>
+    <string name="leaser_fname_hint">Enter Leaser Father Name </string>
+    <string name="leaser_age"> Age </string>
+    <string name="leaser_age_hint">Enter Leaser Age </string>
+    <string name="leaser_locality">City / District</string>
+    <string name="leaser_locality_hint">Enter City/District Name</string>
+    
+    
+    
+     <!-- ****** Leaser Page ******* -->
+    <string name="manager_name">Manager Name </string>
+    <string name="manager_hint">Enter Manager Name </string>
+    <string name="manager_father_name">Father Name </string>
+    <string name="manager_fname_hint">Enter Manager Father Name </string>
+    <string name="manager_age"> Age </string>
+    <string name="manager_age_hint">Enter Manager Age </string>
+    <string name="manager_locality">City / District</string>
+    <string name="manaager_locality_hint">Enter City/District Name</string>
+    <string name="remove_leaser">Remove Leaser</string>
+    <string name="remove_manag">Remove Manager</string>
+    
+    
+
+    <!-- ***** Reports Page ***** -->
+    <string name="fromdate">From Date</string>
+    <string name="todate">To Date</string>
+
+    <!-- ***** Seized Items Page ***** -->
+    <string name="seized_txt">Please Capture Seized Item Photo</string>
+    <string name="seizedItemname">Seized Item Name</string>
+    <string name="quantity">Qty</string>
+    <string name="add">Add</string>
+    <string name="remove">Remove</string>
+    <string name="desc"></string>
+    <string name="enter_id">Enter Employee ID</string>
+    <string name="usr_id">Officer Login ID</string>
+    <string name="pass_wrd">Password</string>
+    <string name="pass">password</string>
+    <string name="cancel">Cancel</string>
+    <string name="login">Login</string>
+    <string name="ip_aettings">IP Settings</string>
+    <string name="id_proof">ID Proof</string>
+    <string name="star">*</string>
+    <string name="aadhar">Aadhar</string>
+    <string name="drivining_lic">Driving License</string>
+    <string name="vehicle_rc">Vehicle RC</string>
+    <string name="pan">PAN Card</string>
+    <string name="passport">Passport</string>
+    <string name="voter">Voter ID</string>
+    <string name="ration">Ration Card</string>
+    <string name="location">Location:</string>
+    <string name="loc_hint">Enter Location</string>
+    <string name="land_mark">Landmark</string>
+    <string name="land_hint">Enter Landmark</string>
+    <string name="date">Date:</string>
+    <string name="date_hint">Enter Date</string>
+    <string name="name">Name </string>
+    <string name="off_name_hint">Enter Respondent Name</string>
+    <string name="father_name">Father Name </string>
+    <string name="house">House No :</string>
+    <string name="house_hint">Enter House Number</string>
+    <string name="street">Street :</string>
+    <string name="street_hint">Enter Street Number</string>
+    <string name="village">Village :</string>
+    <string name="village_hint">Enter Village Name </string>
+    <string name="mandal">Mandal :</string>
+    <string name="mandal_hint">Enter Mandal Name </string>
+    <string name="district">District :</string>
+    <string name="district_hint">Enter District Name </string>
+    <string name="state">State :</string>
+    <string name="state_hint">Enter State Name </string>
+    <string name="pincode">Pincode :</string>
+    <string name="pincode_hint">Enter pincode </string>
+    <string name="email">Email :</string>
+    <string name="email_hint">Enter Email </string>
+    <string name="dob">Date of Birth:</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="other">Third Gender</string>
+    <string name="gender_hint">Select Gender</string>
+    <string name="off_fname">Enter Father Name</string>
+    <string name="dob_hint" color="#ffffff">Enter Date of Birth</string>
+    <string name="addrs">Address :</string>
+    <string name="off_address">Enter Address</string>
+    <string name="nationality">Nationality</string>
+    <string name="indian">Indian</string>
+    <string name="others">Foreigner</string>
+    <string name="passport_num">Passport Number</string>
+    <string name="passprt_hint">Enter Passport Number</string>
+    <string name="int_driv">International Driving License Number</string>
+    <string name="int_driv_hint">Enter Drive License Number</string>
+    <string name="contact">Mobile No</string>
+    <string name="alternate_num">Alternate No:</string>
+    <string name="land_line">Landline Number</string>
+    <string name="off_conatc_num">Contact Number</string>
+    <string name="alt_num">Alternate Number</string>
+    <string name="enter_landln">Enter Landline Number</string>
+    <string name="title_activity_form">Form</string>
+    <string name="title_activity_ip__settings">IP_Settings</string>
+    <string name="ip_sett">IP Settings</string>
+    <string name="version">LO_Version_1.3</string>
+    <string name="serverurl">Server URL :</string>
+    <string name="server_url">http://192.168.11.55:8080</string>
+    <string name="save">Save</string>
+    <string name="title_activity_splash">Splash</string>
+    <string name="telangana_txt">TELANGANA STATE POLICE</string>
+    <string name="integrated_txt">INTEGRATED\n LAW AND ORDER SYSTEM</string>
+    <string name="text_3">A PART OF CITIZEN SAFETY AND SECURITY \n CONTROL SYSTEM</string>
+    <string name="radio_edittxt">Selected ID</string>
+    <string name="get_details">Get Details</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="ftp_url">FTP URL	:</string>
+    <string name="live">Live</string>
+    <string name="test">Test</string>
+    <string name="title_activity_offender_details">Offender_details</string>
+    <string name="title_activity_ip_settings">Ip_settingsActivity</string>
+    <string name="list_heading">Select Sections:</string>
+    <string name="title_activity_check_next">Check_next</string>
+    <string name="section_heading">Section Description</string>
+    <string name="decription">Description :</string>
+    <string name="remarks">Remarks :</string>
+    <string name="descript_hint">Enter Description</string>
+    <string name="remarks_hint">Enter Remarks</string>
+    <string name="ad_text">To Add a New Section Please Enter in the below given box and Click Add Button</string>
+    <string name="section_hint">Enter Section Name</string>
+    <string name="add_btn">Add</string>
+    <string name="duplicate_date" textcolor="#ffffff">Select Date</string>
+    <string name="get">Get</string>
+    <string name="cancel_btn">Cancel</string>
+    <string name="save_btn">Save</string>
+    <string name="back_btn">Back</string>
+    <string name="clear">Clear</string>
+    <string name="qualification">Qualification :</string>
+    <string name="occupatn">Occupation :</string>
+    <string name="qualification_hint">Select Qualification</string>
+    <string name="title_activity_menu_">Menu_Activity</string>
+    <string name="title_activity_duplicate_print_">DuplicatePrint_Activity</string>
+    <string name="duplicate">Duplicate Print</string>
+    <string name="reports">Reports</string>
+    <string name="prev_histy">Previous History</string>
+    <string name="masters">Download Masters</string>
+    <string name="settings">Settings</string>
+    <string name="title_activity_reports_">Reports_Activity</string>
+    <string name="select_date">Select Date</string>
+    <string name="title_activity_menu__dashboard_">Menu_Dashboard_Activity</string>
+    <string name="title_activity_duplicate_print">DuplicatePrintActivity</string>
+    <string name="title_activity_reports">ReportsActivity</string>
+    <string name="title_activity_offender">OffenderActivity</string>
+    <string name="title_activity_add__sections">Add_SectionsActivity</string>
+    <string name="title_activity_fpt_">FPT_Activity</string>
+    <string name="title_activity_fpt2_">FPT2_Activity</string>
+    <string name="title_activity_fpt3_">FPT3_Activity</string>
+    <string name="title_activity_fpt4_">FPT4_Activity</string>
+    <string name="title_activity_witness_form">WitnessFormActivity</string>
+    <string name="title_activity_siezed_items">SiezedItemsActivity</string>
+    <string name="title_activity_previous_history">PreviousHistoryActivity</string>
+    <string name="title_activity_challan__generation">Challan_GenerationActivity</string>
+    <string name="title_activity_preview">PreviewActivity</string>
+    <string name="title_activity_duplicate__sample">Duplicate_SampleActivity</string>
+    <string name="title_activity_otp">OTPActivity</string>
+    <string name="title_activity_settings_2">Settings_2</string>
+    <string name="title_activity_bluetooth__paired_list">Bluetooth_PairedList</string>
+
+</resources>

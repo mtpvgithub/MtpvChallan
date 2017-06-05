@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_scale.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\anim\\anim_scale.xml"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_scale.xml",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\anim\\anim_scale.xml"
+    }
+]

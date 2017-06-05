@@ -1,0 +1,212 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg1"
+    android:orientation="vertical"
+    tools:context="${relativePackage}.${activityClass}" >
+
+   <ImageView
+    android:id="@+id/header"
+    android:layout_width="fill_parent"
+    android:layout_height="100dp"
+    android:contentDescription="@string/desc"
+    android:scaleType="fitXY"
+    android:src="@drawable/headerlogo" />
+   
+   <TextView
+    android:id="@+id/version"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:layout_marginTop="-23dp"
+    android:text="@string/version"
+    android:textColor="#fff"
+    android:textSize="18sp"
+    android:textStyle="bold" />
+    <ScrollView 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+    
+    
+    <LinearLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        >
+        
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="5dp"
+        android:text="@string/section_heading"
+        android:textColor="#ffffff"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+     
+   <LinearLayout 
+         android:id="@+id/ll1"
+         android:layout_width="fill_parent"
+         android:layout_height="wrap_content"
+         android:orientation="vertical">   
+   
+       <TextView
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_marginTop="10dp"
+           android:text="@string/list_heading"
+           android:textColor="#fff"
+           android:textSize="20sp"
+           android:textStyle="bold" />
+     
+ 	<ListView
+ 	    android:id="@+id/mylist"
+ 	    android:layout_width="fill_parent"
+ 	    android:layout_height="400dp"
+ 	    android:layout_marginTop="10dp"
+ 	    android:fadeScrollbars="false"
+ 	    android:textColor="#fff" >
+
+</ListView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="15dp"
+        android:text="*** Please Click on Section Name to Select Section ***"
+        android:textColor="#FF0000"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+     
+   </LinearLayout>
+    
+     <LinearLayout
+         android:layout_width="fill_parent"
+         android:layout_height="wrap_content"
+         android:layout_marginTop="10dp"
+         android:orientation="vertical" >
+
+   <TextView
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_gravity="left"
+       android:layout_marginTop="10dp"
+       android:text="Brief Facts :"
+       android:textColor="#ffffff"
+       android:textSize="20sp"
+       android:textStyle="bold" />
+	
+<EditText
+       android:id="@+id/decription_text"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:hint="@string/descript_hint"
+       android:background="@drawable/bgcolor"
+       android:layout_marginTop="10dp"
+       android:gravity="left|top"
+       android:maxLines="10"
+       android:paddingLeft="5dp" 
+       android:textColor="#000"
+       android:paddingTop="5dp">
+ 
+      
+   </EditText>
+          
+          
+</LinearLayout>
+
+     <LinearLayout
+         android:layout_width="fill_parent"
+         android:layout_height="wrap_content"
+         android:layout_marginTop="10dp"
+         android:orientation="horizontal" >
+         
+    <LinearLayout 
+     android:layout_width="fill_parent"
+     android:layout_height="wrap_content"
+     android:orientation="horizontal"
+     android:paddingTop="15dp"
+     android:paddingLeft="10dp"
+     android:weightSum="1">
+
+     <ImageView
+         android:id="@+id/back_offender"
+         android:layout_width="50dp"
+         android:layout_height="50dp"
+         android:layout_weight="0.2"
+         android:contentDescription="@string/desc"
+         android:gravity="right"
+         android:src="@drawable/back" />
+ 
+ <ImageView
+     android:id="@+id/save_offender"
+     android:layout_width="50dp"
+     android:layout_height="50dp"
+     android:layout_weight="0.5"
+     android:contentDescription="@string/desc"
+     android:gravity="right"
+     android:src="@drawable/save" />
+ 
+		<ImageView
+		    android:id="@+id/reset_btn"
+		    android:layout_width="50dp"
+		    android:layout_height="50dp"
+		    android:layout_weight="0.3"
+		    android:contentDescription="@string/desc"
+		    android:gravity="right"
+		    android:src="@drawable/reset" />
+ 		 
+ 		<!--  <TextView
+ 		     android:id="@+id/nxt"
+ 		     android:layout_width="wrap_content"
+ 		     android:layout_height="wrap_content"
+ 		     android:layout_gravity="right"
+ 		     android:layout_marginRight="60dp"
+ 		     android:layout_marginTop="10dp"
+ 		     android:textColor="#fff"
+ 		     android:text="@string/next"
+ 		     android:textSize="18sp" /> -->
+ 		 
+ 		 </LinearLayout>
+         
+     </LinearLayout>
+    
+  
+</LinearLayout>
+</ScrollView>
+
+<LinearLayout
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_marginBottom="0dp"
+    android:gravity="bottom|center"
+    android:orientation="vertical" >
+
+<!-- <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="0dp"
+    android:gravity="center"
+    android:text="An Integrated Petty case CP Act under the Hyderabad Policing System"
+    android:textColor="#FF0000"
+    android:textSize="18sp"
+    android:textStyle="bold" /> -->
+
+     <TextView
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:gravity="center"
+         android:layout_marginTop="0dp"
+         android:text="DEVELOPED BY MOTHER TECHNOLOGIES PROJECT VENTURES"
+         android:textColor="#cccccc"
+         android:textSize="16sp"
+         android:layout_marginBottom="5dp"
+         android:textStyle="bold" />
+
+  </LinearLayout>
+</LinearLayout>

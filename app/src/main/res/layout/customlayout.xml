@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/red"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/dialogtitle"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="REQUIRED PERMISSIONS"
+        android:textAppearance="@android:style/TextAppearance.Medium"
+        android:textColor="@android:color/white"
+        android:textSize="25dp" />
+
+    <View
+        android:id="@+id/view1"
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="25dp"
+        android:background="#000000" />
+
+    <TextView
+        android:id="@+id/dialogMessage"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="30dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:text="Allow Android Permissions.\nTo Access This Application.\nCAMERA,LOCATION,EXTERNAL STORAGE,PHONE"
+        android:textAppearance="@android:style/TextAppearance.Medium"
+        android:textColor="#FFFFFF"
+        android:textSize="15dp" />
+
+    <View
+        android:id="@+id/view2"
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:background="#000000" />
+
+    <LinearLayout
+        android:id="@+id/buttons"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:weightSum="1" >
+
+        <TextView
+            android:id="@+id/dialogyes"
+            android:layout_width="wrap_content"
+            android:layout_height="60dp"
+            android:layout_weight="0.5"
+            android:textSize="15dp"
+            android:gravity="center"
+            android:text="ALLOW"
+            android:textColor="#114D08" />
+
+        <TextView
+            android:id="@+id/dialogno"
+            android:layout_width="wrap_content"
+            android:layout_height="60dp"
+            android:layout_weight="0.5"
+            android:gravity="center"
+            android:text="CANCEL"
+            android:textSize="15dp"
+            android:textColor="#114D08" />
+    </LinearLayout>
+
+</LinearLayout>

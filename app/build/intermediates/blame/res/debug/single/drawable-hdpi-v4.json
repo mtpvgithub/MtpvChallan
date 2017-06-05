@@ -1,0 +1,810 @@
+[
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dulicate.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\dulicate.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logout.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\logout.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\back.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\back.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dulicate.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\dulicate.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\exit_back2.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\exit_back2.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\photo.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\photo.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\add_case.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\add_case.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\next.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\next.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\add_case.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\add_case.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\search.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\submit.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\submit.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\scan.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\scan.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\off.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\off.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shape_drop_down_normal.xml",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\shape_drop_down_normal.xml"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fpsimg.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\fpsimg.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btbanner1.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\btbanner1.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\screen.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\screen.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\back2.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\back2.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\headerlogo.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\headerlogo.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fpsimg.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\fpsimg.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\selectper2.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\selectper2.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vehicleh.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\vehicleh.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\iconstyle.xml",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\iconstyle.xml"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\drop_arrow.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\drop_arrow.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\submit.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\submit.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\previous_history.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\previous_history.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\photo.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\photo.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo2.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\logo2.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fp.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\fp.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\spot.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\spot.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\screen.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\screen.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vehicleh.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\vehicleh.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\magcardtitle2.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\magcardtitle2.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\otp.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\otp.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\previous_history.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\previous_history.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camera.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\camera.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\footer.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\footer.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ptr_back.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\ptr_back.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dropdown.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\dropdown.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\previ_histry.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\previ_histry.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\back2.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\back2.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bt2.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\bt2.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bue_text.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\bue_text.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\save.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\save.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\unnamed.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\unnamed.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\magcardtitle2.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\magcardtitle2.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edittext_white.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\edittext_white.xml"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\samplelogo12.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\samplelogo12.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\spothead.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\spothead.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\printer_back.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\printer_back.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\print.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\print.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bgcolor.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\bgcolor.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\offline.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\offline.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\search.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\relese.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\relese.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btns.xml",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\btns.xml"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logout.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\logout.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smartcardtitle2.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\smartcardtitle2.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\printer.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\printer.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fps_back_inactive.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\fps_back_inactive.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\confirm.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\confirm.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\download.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\download.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\drunk.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\drunk.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bt3.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\bt3.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setings.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\setings.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\reset.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\reset.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\spot.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\spot.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\scan.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\scan.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btns.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\btns.xml"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\updte_btn.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\updte_btn.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fps_back_inactive.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\fps_back_inactive.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\printer2.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\printer2.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ser_port.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\ser_port.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\infoicon2.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\infoicon2.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\report.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\report.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\print.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\print.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\infoicon1.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\infoicon1.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hyd_city.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\hyd_city.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo1.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\logo1.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ser_port_inactive.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\ser_port_inactive.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fpst.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\fpst.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ser_port_inactive.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\ser_port_inactive.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\reports.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\reports.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mag_back.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\mag_back.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fpst.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\fpst.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\printer_back_inactive.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\printer_back_inactive.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fp.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\fp.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\relese.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\relese.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mtpv.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\mtpv.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ptr_back.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\ptr_back.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_clr.xml",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\btn_clr.xml"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smartcardtitle2.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\smartcardtitle2.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg1.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\bg1.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\uc.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\uc.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\drop_arrow.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\drop_arrow.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edit.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\edit.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btbanner1.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\btbanner1.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\updte_btn.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\updte_btn.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mtpv.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\mtpv.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camera.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\camera.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo2.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\logo2.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smart_but_inactive.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\smart_but_inactive.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\footer.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\footer.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\iconstyle.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\iconstyle.xml"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dup_print.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\dup_print.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\infoicon2.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\infoicon2.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dropdown.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\dropdown.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\back.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\back.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edit.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\edit.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gellary.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\gellary.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\settings.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\settings.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\footpath.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\footpath.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fps_back.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\fps_back.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\crime.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\crime.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fps_back.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\fps_back.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\add.jpg",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\add.jpg"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\informationimg1.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\informationimg1.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edittext_white.xml",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\edittext_white.xml"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\printer_back_inactive.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\printer_back_inactive.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg1.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\bg1.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dup_print.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\dup_print.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_background.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\login_background.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\unnamed.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\unnamed.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\informationimg1.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\informationimg1.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\iv.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\iv.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\footpath.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\footpath.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\exit_back1.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\exit_back1.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\buttonstyle.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\buttonstyle.xml"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\serialporttitle2.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\serialporttitle2.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_background.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\login_background.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\remove.jpg",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\remove.jpg"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\exit_back2.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\exit_back2.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\crime.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\crime.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bgcolor.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\bgcolor.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bgclr.xml",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\bgclr.xml"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\settings.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\settings.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\serialporttitle2.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\serialporttitle2.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\save.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\save.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\crane.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\crane.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\samplelogo2.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\samplelogo2.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\confirm.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\confirm.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tickmark.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\tickmark.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\offline.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\offline.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\infoicon1.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\infoicon1.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\otp.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\otp.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edit_button.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\edit_button.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\selectper2.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\selectper2.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shape_drop_down_normal.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\shape_drop_down_normal.xml"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bt2.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\bt2.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\next.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\next.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\reports.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\reports.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mag_back.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\mag_back.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\report.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\report.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setings.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\setings.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bgclr.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\bgclr.xml"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\samplelogo12.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\samplelogo12.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\buttonstyle.xml",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\buttonstyle.xml"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\download.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\download.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\previ_histry.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\previ_histry.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smart_but.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\smart_but.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\printer_back.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\printer_back.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\printer2.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\printer2.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\iv.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\iv.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\drunkhead.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\drunkhead.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mag_back_inactive.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\mag_back_inactive.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\printer.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\printer.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ser_port.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\ser_port.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_clr.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\btn_clr.xml"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hyd_city.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\hyd_city.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bt3.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\bt3.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\crane.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\crane.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mag_back_inactive.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\mag_back_inactive.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\spothead.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\spothead.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\headerlogo.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\headerlogo.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hyd_city_small.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\hyd_city_small.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bluethumb.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\bluethumb.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\uc.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\uc.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smart_but_inactive.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\smart_but_inactive.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smart_but.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\smart_but.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\off.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\off.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edit_button.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\edit_button.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\samplelogo2.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\samplelogo2.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\drunk.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\drunk.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bue_text.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\bue_text.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\add.jpg",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\add.jpg"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\reset.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\reset.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edittext_style.xml",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\edittext_style.xml"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\drunkhead.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\drunkhead.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\exit_back1.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\exit_back1.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hyd_city_small.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\hyd_city_small.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo1.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\logo1.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\remove.jpg",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\remove.jpg"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gellary.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\gellary.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bluethumb.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\bluethumb.png"
+    },
+    {
+        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tickmark.png",
+        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-hdpi\\tickmark.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edittext_style.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-hdpi\\edittext_style.xml"
+    }
+]

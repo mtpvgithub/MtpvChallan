@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" 
+    android:paddingTop="10dp"
+    android:paddingBottom="10dp">
+
+    <Button
+        android:id="@+id/btn_pair"
+        android:layout_width="125dp"
+        android:layout_height="40dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerInParent="true"
+        android:background="@drawable/buttonstyle"
+        android:text="Pair"
+        android:textSize="18sp"
+        android:textColor="#ffffff" />
+    
+    <TextView
+        android:id="@+id/tv_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toLeftOf="@+id/btn_pair"
+        android:layout_alignTop="@+id/btn_pair"
+        android:layout_alignParentLeft="true"
+        android:textSize="16sp"
+        android:textColor="#ffffff"
+        android:text="Galaxy Nexus" />
+	
+    <TextView
+        android:id="@+id/tv_address"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toLeftOf="@+id/btn_pair"
+        android:layout_alignParentLeft="true"
+        android:layout_alignBottom="@+id/btn_pair"
+        android:textColor="#ffffff"
+        android:text="000000000" />
+    
+</RelativeLayout>

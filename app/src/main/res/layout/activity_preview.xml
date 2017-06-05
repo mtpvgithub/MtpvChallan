@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg1"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/header"
+        android:layout_width="fill_parent"
+        android:layout_height="60dp"
+        android:contentDescription="@string/desc"
+        android:scaleType="fitXY"
+        android:src="@drawable/headerlogo" />
+    
+     <ScrollView 
+      android:layout_width="fill_parent"
+      android:layout_height="wrap_content">
+  
+  <LinearLayout
+    android:id="@+id/full"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_marginBottom="0dp"
+    android:orientation="vertical" >
+    
+<LinearLayout
+    android:id="@+id/respondent"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_marginBottom="0dp"
+    android:layout_marginLeft="20dp"
+    android:layout_marginRight="20dp"
+    android:layout_marginTop="15dp"
+    android:background="@drawable/iconstyle"
+    android:orientation="vertical" >
+    
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:paddingRight="40dp"
+        android:text="Respondent Details"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:visibility="visible" />
+    
+    <TextView
+        android:id="@+id/respondent_text"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:paddingRight="40dp"
+        android:textColor="#000000"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:visibility="visible" />
+    
+</LinearLayout>
+
+<LinearLayout
+    android:id="@+id/witness"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_marginBottom="0dp"
+    android:layout_marginLeft="20dp"
+    android:layout_marginRight="20dp"
+    android:layout_marginTop="10dp"
+    android:background="@drawable/iconstyle"
+    android:orientation="vertical" >
+    
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:paddingRight="40dp"
+        android:text="Witness Details"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:visibility="visible" />
+    
+    <TextView
+        android:id="@+id/witness_text"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:paddingRight="40dp"
+        android:textColor="#000000"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+    
+</LinearLayout>
+
+<LinearLayout
+    android:id="@+id/sections"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_marginBottom="0dp"
+    android:layout_marginLeft="20dp"
+    android:layout_marginRight="20dp"
+    android:layout_marginTop="10dp"
+    android:background="@drawable/iconstyle"
+    android:orientation="vertical" >
+    
+     <TextView
+         android:layout_width="fill_parent"
+         android:layout_height="wrap_content"
+         android:layout_marginLeft="20dp"
+         android:layout_marginRight="20dp"
+         android:layout_marginTop="10dp"
+         android:gravity="center"
+         android:paddingRight="40dp"
+         android:text="Sections Added"
+         android:textColor="#000000"
+         android:textSize="20sp"
+         android:textStyle="bold"
+         android:visibility="visible" />
+    
+     <TextView
+         android:id="@+id/sections_text"
+         android:layout_width="fill_parent"
+         android:layout_height="wrap_content"
+         android:layout_gravity="center"
+         android:layout_marginBottom="10dp"
+         android:layout_marginLeft="20dp"
+         android:layout_marginRight="20dp"
+         android:paddingRight="40dp"
+         android:textColor="#000000"
+         android:textSize="16sp"
+         android:textStyle="bold"
+         android:visibility="visible" />
+
+</LinearLayout>
+
+<LinearLayout
+    android:id="@+id/seized"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_marginBottom="0dp"
+    android:layout_marginLeft="20dp"
+    android:layout_marginRight="20dp"
+    android:layout_marginTop="10dp"
+    android:background="@drawable/iconstyle"
+    android:orientation="vertical" >
+     
+     <TextView
+         android:layout_width="fill_parent"
+         android:layout_height="wrap_content"
+         android:layout_marginLeft="20dp"
+         android:layout_marginRight="20dp"
+         android:layout_marginTop="10dp"
+         android:gravity="center"
+         android:paddingRight="40dp"
+         android:text="Seized Items"
+         android:textColor="#000000"
+         android:textSize="20sp"
+         android:textStyle="bold"
+         android:visibility="visible" />
+     
+     <TextView
+         android:id="@+id/seized_text"
+         android:layout_width="fill_parent"
+         android:layout_height="wrap_content"
+         android:layout_gravity="center"
+         android:layout_marginBottom="10dp"
+         android:layout_marginLeft="20dp"
+         android:layout_marginRight="20dp"
+         android:paddingRight="40dp"
+         android:textColor="#000000"
+         android:textSize="16sp"
+         android:textStyle="bold"
+         android:visibility="visible" />
+    
+</LinearLayout>
+  
+<LinearLayout
+    android:layout_width="fill_parent"
+    android:layout_height="80dp"
+    android:layout_marginTop="20dp"
+    android:gravity="center"
+    android:orientation="horizontal"
+    android:paddingLeft="10dp"
+    android:weightSum="1" >
+
+     <ImageView
+         android:id="@+id/edit"
+         android:layout_width="80dp"
+         android:layout_height="60dp"
+         android:contentDescription="@string/desc"
+         android:gravity="center"
+         android:src="@drawable/edit_button" />
+
+		<ImageView
+		    android:id="@+id/confirm"
+		    android:layout_width="100dp"
+		    android:layout_height="60dp"
+		    android:layout_marginLeft="50dp"
+		    android:contentDescription="@string/desc"
+		    android:gravity="center"
+		    android:src="@drawable/confirm" />
+ 	
+ 		 </LinearLayout>
+ 		 
+</LinearLayout> 
+  
+  </ScrollView>
+<LinearLayout
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_marginBottom="0dp"
+    android:gravity="bottom|center"
+    android:orientation="vertical" >
+
+<!-- <TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="0dp"
+    android:gravity="center"
+    android:text="An Integrated Petty case CP Act under the Hyderabad Policing System"
+    android:textColor="#FF0000"
+    android:textSize="18sp"
+    android:textStyle="bold" /> -->
+
+     <TextView
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginBottom="5dp"
+         android:layout_marginTop="0dp"
+         android:gravity="center"
+         android:text="DEVELOPED BY MOTHER TECHNOLOGIES PROJECT VENTURES"
+         android:textColor="#cccccc"
+         android:textSize="10sp"
+         android:textStyle="bold" />
+
+  </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,472 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:2:1-242:12
+	package
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\mtpv\.android\build-cache\a74645edf0c447d6b09f376d6733c3c3c2f66783\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\mtpv\.android\build-cache\6bda764a6719bd6464cf5d4dbd9c5b0790be2ee4\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\mtpv\.android\build-cache\96e5523fcd7c2a9de0f6c452edac3bdcbd1e4199\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\mtpv\.android\build-cache\433bb8a041f9d7a96a664b8bd6bf6829df593cc4\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\mtpv\.android\build-cache\fe115d326e9ebce2cb35ba5222ac610b9aebfe55\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\mtpv\.android\build-cache\a22de2d1fdf085df2179f5b2da32b6ed57d527ad\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\mtpv\.android\build-cache\a74645edf0c447d6b09f376d6733c3c3c2f66783\output\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:10:9-38
+		INJECTED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:9:9-35
+		INJECTED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:12:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:13:5-73
+	android:name
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:13:22-71
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:14:5-73
+	android:name
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:14:22-70
+uses-permission#android.permission.INTERNET
+ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:15:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:16:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:17:5-80
+	android:name
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:17:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:18:5-75
+	android:name
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:18:22-72
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:19:5-76
+	android:name
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:19:22-73
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:20:22-76
+uses-permission#android.permission.ACCESS_COURSE_LOCATION
+ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:21:5-81
+	android:name
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:21:22-78
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:22:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.CAMERA
+ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:25:5-65
+	android:name
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:25:22-62
+uses-permission#com.android.launcher.permission.INSTALL_SHORTCUT
+ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:26:5-88
+	android:name
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:26:22-85
+uses-permission#android.permission.INSTALL_PACKAGES
+ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:27:5-75
+	android:name
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:27:22-72
+uses-permission#android.permission.DELETE_PACKAGES
+ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:28:5-74
+	android:name
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:28:22-71
+uses-feature#android.hardware.camera
+ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:30:5-32:35
+	android:required
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:32:9-32
+	android:name
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:31:9-47
+uses-feature#android.hardware.bluetooth
+ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:34:5-36:35
+	android:required
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:36:9-32
+	android:name
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:35:9-50
+application
+ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:38:5-240:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\mtpv\.android\build-cache\a74645edf0c447d6b09f376d6733c3c3c2f66783\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\mtpv\.android\build-cache\6bda764a6719bd6464cf5d4dbd9c5b0790be2ee4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\mtpv\.android\build-cache\96e5523fcd7c2a9de0f6c452edac3bdcbd1e4199\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\mtpv\.android\build-cache\433bb8a041f9d7a96a664b8bd6bf6829df593cc4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\mtpv\.android\build-cache\fe115d326e9ebce2cb35ba5222ac610b9aebfe55\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\mtpv\.android\build-cache\a22de2d1fdf085df2179f5b2da32b6ed57d527ad\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:42:9-41
+	android:allowBackup
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:40:9-35
+	android:icon
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:41:9-42
+	android:largeHeap
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:43:9-33
+	android:theme
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:44:9-40
+	android:name
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:39:9-55
+activity#com.mtpv.LawnOrder.UserLogin_Activity
+ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:45:9-54:20
+	android:screenOrientation
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:48:13-49
+	android:label
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:47:13-45
+	android:name
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:46:13-65
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:49:13-53:29
+action#android.intent.action.MAIN
+ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:50:17-69
+	android:name
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:50:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:52:17-77
+	android:name
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:52:27-74
+activity#com.esys.leoparddemo.Act_Main
+ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:55:9-62:80
+	android:screenOrientation
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:61:13-49
+	android:label
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:59:13-54
+	android:excludeFromRecents
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:58:13-46
+	android:launchMode
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:60:13-42
+	android:configChanges
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:57:13-85
+	android:theme
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:62:13-77
+	android:name
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:56:13-57
+activity#com.esys.leoparddemo.Act_BTDiscovery
+ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:63:9-70:80
+	android:screenOrientation
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:69:13-49
+	android:label
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:67:13-54
+	android:excludeFromRecents
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:66:13-46
+	android:launchMode
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:68:13-42
+	android:configChanges
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:65:13-85
+	android:theme
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:70:13-77
+	android:name
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:64:13-64
+activity#com.esys.leoparddemo.Act_Printer
+ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:71:9-76:20
+	android:screenOrientation
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:74:13-49
+	android:excludeFromRecents
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:73:13-46
+	android:theme
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:75:13-77
+	android:name
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:72:13-60
+activity#com.esys.leoparddemo.Act_FPS
+ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:77:9-82:20
+	android:screenOrientation
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:80:13-49
+	android:excludeFromRecents
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:79:13-46
+	android:theme
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:81:13-77
+	android:name
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:78:13-56
+activity#com.esys.leoparddemo.Act_MagCard
+ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:83:9-88:20
+	android:screenOrientation
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:86:13-49
+	android:excludeFromRecents
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:85:13-46
+	android:theme
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:87:13-77
+	android:name
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:84:13-60
+activity#com.esys.leoparddemo.Act_SmartCard
+ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:89:9-94:20
+	android:screenOrientation
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:92:13-49
+	android:excludeFromRecents
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:91:13-46
+	android:theme
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:93:13-77
+	android:name
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:90:13-62
+activity#com.esys.leoparddemo.Act_Serial
+ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:95:9-100:20
+	android:screenOrientation
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:98:13-49
+	android:excludeFromRecents
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:97:13-46
+	android:theme
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:99:13-77
+	android:name
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:96:13-59
+activity#com.esys.leoparddemo.Act_SelectPeripherals
+ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:101:9-106:20
+	android:screenOrientation
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:104:13-49
+	android:excludeFromRecents
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:103:13-46
+	android:theme
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:105:13-77
+	android:name
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:102:13-70
+activity#com.mtpv.LawnOrder.Menu_Dashboard_Activity
+ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:108:9-113:20
+	android:screenOrientation
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:112:13-49
+	android:label
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:111:13-68
+	android:excludeFromRecents
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:110:13-46
+	android:name
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:109:13-70
+activity#com.mtpv.LawnOrder.IP_SettingsActivity
+ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:114:9-119:20
+	android:screenOrientation
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:118:13-49
+	android:label
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:117:13-64
+	android:excludeFromRecents
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:116:13-46
+	android:name
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:115:13-66
+activity#com.mtpv.LawnOrder.DuplicatePrintActivity
+ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:120:9-126:20
+	android:screenOrientation
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:124:13-49
+	android:label
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:123:13-67
+	android:excludeFromRecents
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:122:13-46
+	android:windowSoftInputMode
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:125:13-52
+	android:name
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:121:13-69
+activity#com.mtpv.LawnOrder.ReportsActivity
+ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:127:9-133:20
+	android:screenOrientation
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:131:13-49
+	android:label
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:130:13-59
+	android:excludeFromRecents
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:129:13-46
+	android:windowSoftInputMode
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:132:13-52
+	android:name
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:128:13-62
+activity#com.mtpv.LawnOrder.OffenderActivity
+ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:134:9-140:20
+	android:screenOrientation
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:138:13-49
+	android:label
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:137:13-60
+	android:excludeFromRecents
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:136:13-46
+	android:windowSoftInputMode
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:139:13-52
+	android:name
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:135:13-63
+activity#com.mtpv.LawnOrder.Add_SectionsActivity
+ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:141:9-147:20
+	android:screenOrientation
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:145:13-49
+	android:label
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:144:13-65
+	android:excludeFromRecents
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:143:13-46
+	android:windowSoftInputMode
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:146:13-52
+	android:name
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:142:13-67
+activity#com.mtpv.LawnOrder.FPT_Activity
+ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:148:9-153:20
+	android:screenOrientation
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:152:13-49
+	android:label
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:151:13-56
+	android:excludeFromRecents
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:150:13-46
+	android:name
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:149:13-59
+activity#com.mtpv.LawnOrder.FPT2_Activity
+ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:154:9-159:20
+	android:screenOrientation
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:158:13-49
+	android:label
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:157:13-57
+	android:excludeFromRecents
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:156:13-46
+	android:name
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:155:13-60
+activity#com.mtpv.LawnOrder.FPT3_Activity
+ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:160:9-165:20
+	android:screenOrientation
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:164:13-49
+	android:label
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:163:13-57
+	android:excludeFromRecents
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:162:13-46
+	android:name
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:161:13-60
+activity#com.mtpv.LawnOrder.FPT4_Activity
+ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:166:9-171:20
+	android:screenOrientation
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:170:13-49
+	android:label
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:169:13-57
+	android:excludeFromRecents
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:168:13-46
+	android:name
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:167:13-60
+activity#com.mtpv.LawnOrder.WitnessFormActivity
+ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:172:9-178:20
+	android:screenOrientation
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:176:13-49
+	android:label
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:175:13-64
+	android:excludeFromRecents
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:174:13-46
+	android:windowSoftInputMode
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:177:13-52
+	android:name
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:173:13-66
+activity#com.mtpv.LawnOrder.SiezedItemsActivity
+ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:179:9-185:20
+	android:screenOrientation
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:183:13-49
+	android:label
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:182:13-64
+	android:excludeFromRecents
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:181:13-46
+	android:windowSoftInputMode
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:184:13-52
+	android:name
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:180:13-66
+activity#com.mtpv.LawnOrder.PreviousHistoryActivity
+ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:186:9-192:20
+	android:screenOrientation
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:190:13-49
+	android:label
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:189:13-68
+	android:excludeFromRecents
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:188:13-46
+	android:windowSoftInputMode
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:191:13-52
+	android:name
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:187:13-70
+activity#com.mtpv.LawnOrder.Challan_GenerationActivity
+ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:193:9-198:20
+	android:screenOrientation
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:197:13-49
+	android:label
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:196:13-71
+	android:excludeFromRecents
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:195:13-46
+	android:name
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:194:13-73
+activity#com.mtpv.LawnOrder.PrintDispaly
+ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:199:9-204:20
+	android:screenOrientation
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:203:13-49
+	android:label
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:202:13-71
+	android:excludeFromRecents
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:201:13-46
+	android:name
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:200:13-59
+activity#com.mtpv.LawnOrder.PreviewActivity
+ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:205:9-209:20
+	android:label
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:208:13-59
+	android:excludeFromRecents
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:207:13-46
+	android:name
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:206:13-62
+activity#com.mtpv.LawnOrder.Duplicate_SampleActivity
+ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:210:9-215:20
+	android:screenOrientation
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:214:13-49
+	android:label
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:213:13-69
+	android:excludeFromRecents
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:212:13-46
+	android:name
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:211:13-71
+activity#com.example.button.OTPActivity
+ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:216:9-221:20
+	android:screenOrientation
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:220:13-49
+	android:label
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:219:13-55
+	android:excludeFromRecents
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:218:13-46
+	android:name
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:217:13-40
+activity#com.example.button.Settings_2
+ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:222:9-226:20
+	android:label
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:224:13-62
+	android:windowSoftInputMode
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:225:13-52
+	android:name
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:223:13-39
+activity#com.example.button.Bluetooth_PairedList
+ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:227:9-231:20
+	android:label
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:229:13-74
+	android:windowSoftInputMode
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:230:13-52
+	android:name
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:228:13-49
+activity#com.mtpv.LawnOrder.DeviceListActivity
+ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:233:10-239:20
+	android:theme
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:235:13-56
+	android:name
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:234:13-65
+intent-filter#android.intent.action.VIEW
+ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:236:13-238:29
+action#android.intent.action.VIEW
+ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:237:17-69
+	android:name
+		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:237:25-66
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:25.3.1] C:\Users\mtpv\.android\build-cache\a74645edf0c447d6b09f376d6733c3c3c2f66783\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\mtpv\.android\build-cache\6bda764a6719bd6464cf5d4dbd9c5b0790be2ee4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\mtpv\.android\build-cache\96e5523fcd7c2a9de0f6c452edac3bdcbd1e4199\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\mtpv\.android\build-cache\433bb8a041f9d7a96a664b8bd6bf6829df593cc4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\mtpv\.android\build-cache\fe115d326e9ebce2cb35ba5222ac610b9aebfe55\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\mtpv\.android\build-cache\a22de2d1fdf085df2179f5b2da32b6ed57d527ad\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\mtpv\.android\build-cache\a74645edf0c447d6b09f376d6733c3c3c2f66783\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\mtpv\.android\build-cache\a74645edf0c447d6b09f376d6733c3c3c2f66783\output\AndroidManifest.xml:26:9-47

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg1"
+    android:orientation="vertical" >
+
+ <LinearLayout
+  android:layout_width="fill_parent"
+  android:layout_height="wrap_content"
+  android:orientation="horizontal" 
+  android:layout_marginTop="10dp">
+
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="125dp"
+    android:orientation="vertical" >
+
+<ImageView
+    android:id="@+id/respondent_img1"
+    android:layout_width="100dp"
+    android:layout_height="100dp"
+    android:layout_gravity="center"
+    android:contentDescription="@string/desc"
+    android:scaleType="fitXY"
+    android:src="@drawable/photo" />
+
+<TextView  
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:text="Click to Add Image"
+         android:textColor="#ffffff"
+         android:layout_marginTop="10dp"
+         android:textSize="16sp"
+         android:textStyle="bold"/>
+
+</LinearLayout>
+
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="20dp"
+    android:orientation="vertical" >
+
+<ImageView
+    android:id="@+id/capture_fpt"
+    android:layout_width="100dp"
+    android:layout_height="100dp"
+    android:contentDescription="@string/desc"
+    android:scaleType="fitXY"
+    android:layout_gravity="center"
+    android:src="@drawable/bluethumb" />
+
+<TextView  
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:text="Click to Add Finger Print"
+         android:layout_gravity="center"
+         android:textColor="#ffffff"
+         android:layout_marginTop="10dp"
+         android:textSize="16sp"
+         android:textStyle="bold"/>
+
+</LinearLayout>
+
+<ImageView
+    android:id="@+id/cpture_tick1"
+    android:layout_width="50dp"
+    android:layout_height="50dp"
+    android:layout_gravity="center"
+    android:layout_marginLeft="10dp"
+    android:src="@drawable/tickmark"
+    android:visibility="visible" />
+
+</LinearLayout>
+
+</LinearLayout>

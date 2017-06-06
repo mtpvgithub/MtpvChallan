@@ -125,6 +125,7 @@ public class WebService extends Activity  {
 			pi.setType(Integer.class);
 			request.addProperty(pi);
 		//	pi=new PropertyInfo();
+        // git hub chages
 			
 			
 	        SoapSerializationEnvelope envelope = new SoapSerializationEnvelope(SoapEnvelope.VER11);

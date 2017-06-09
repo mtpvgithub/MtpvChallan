@@ -1,13 +1,5 @@
 [
     {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\headerlogo.png",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-xhdpi\\headerlogo.png"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
-    },
-    {
         "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
         "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
     },

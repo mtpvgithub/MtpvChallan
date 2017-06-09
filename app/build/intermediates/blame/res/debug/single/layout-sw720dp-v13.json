@@ -1,203 +1,23 @@
 [
     {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_fpt2_.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout-sw720dp\\activity_fpt2_.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\dlg_bardchange.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout-sw720dp\\dlg_bardchange.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_add__sections.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout-sw720dp\\activity_add__sections.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_fps.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout-sw720dp\\activity_fps.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_menu__dashboard_.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout-sw720dp\\activity_menu__dashboard_.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\list_row.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout-sw720dp\\list_row.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_fpt_.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout-sw720dp\\activity_fpt_.xml"
-    },
-    {
-        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_preview.xml",
-        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\activity_preview.xml"
-    },
-    {
-        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\dlg_addline.xml",
-        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\dlg_addline.xml"
-    },
-    {
-        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_ip__settings.xml",
-        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\activity_ip__settings.xml"
-    },
-    {
-        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\duplicate_list.xml",
-        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\duplicate_list.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_siezed_items.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout-sw720dp\\activity_siezed_items.xml"
-    },
-    {
-        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\list_row.xml",
-        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\list_row.xml"
-    },
-    {
-        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\custom_progress_dialog.xml",
-        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\custom_progress_dialog.xml"
-    },
-    {
-        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\dlg_informationbox.xml",
-        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\dlg_informationbox.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_main.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout-sw720dp\\activity_main.xml"
-    },
-    {
-        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\mail_bdteamsupport.xml",
-        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\mail_bdteamsupport.xml"
-    },
-    {
-        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_offender.xml",
-        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\activity_offender.xml"
-    },
-    {
-        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\list_view_item_devices.xml",
-        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\list_view_item_devices.xml"
-    },
-    {
-        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\dlg_entertext.xml",
-        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\dlg_entertext.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\spinner_item.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout-sw720dp\\spinner_item.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_fpt4_.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout-sw720dp\\activity_fpt4_.xml"
-    },
-    {
-        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_userlogin.xml",
-        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\activity_userlogin.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\row.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout-sw720dp\\row.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_btdiscovery.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout-sw720dp\\activity_btdiscovery.xml"
-    },
-    {
-        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_previous_history.xml",
-        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\activity_previous_history.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_witness_form.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout-sw720dp\\activity_witness_form.xml"
-    },
-    {
-        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_main.xml",
-        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\activity_main.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\splash.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout-sw720dp\\splash.xml"
-    },
-    {
-        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\list_remove.xml",
-        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\list_remove.xml"
-    },
-    {
-        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_serialport1.xml",
-        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\activity_serialport1.xml"
-    },
-    {
-        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_magneticcard.xml",
-        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\activity_magneticcard.xml"
-    },
-    {
-        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\dlg_bitmap.xml",
-        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\dlg_bitmap.xml"
-    },
-    {
-        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_menu__dashboard_.xml",
-        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\activity_menu__dashboard_.xml"
-    },
-    {
-        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\shape_drop_down_normal.xml",
-        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\shape_drop_down_normal.xml"
-    },
-    {
-        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\spinner_item.xml",
-        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\spinner_item.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_ip__settings.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout-sw720dp\\activity_ip__settings.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\toast_background.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout-sw720dp\\toast_background.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\dlg_addline.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout-sw720dp\\dlg_addline.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_userlogin.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout-sw720dp\\activity_userlogin.xml"
-    },
-    {
-        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\toast_background.xml",
-        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\toast_background.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_duplicate_print.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout-sw720dp\\activity_duplicate_print.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\dlg_informationbox.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout-sw720dp\\dlg_informationbox.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_selectperi.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout-sw720dp\\activity_selectperi.xml"
-    },
-    {
         "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\act_unicode.xml",
         "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\act_unicode.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\list_view_item_devices.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout-sw720dp\\list_view_item_devices.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_serialport1.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout-sw720dp\\activity_serialport1.xml"
     },
     {
         "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_selectperi.xml",
         "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\activity_selectperi.xml"
     },
     {
-        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_btdiscovery.xml",
-        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\activity_btdiscovery.xml"
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\dlg_addline.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\dlg_addline.xml"
     },
     {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\act_unicode.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout-sw720dp\\act_unicode.xml"
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_preview.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\activity_preview.xml"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_btdiscovery.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\activity_btdiscovery.xml"
     },
     {
         "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\printdisplay.xml",
@@ -212,64 +32,52 @@
         "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\dlg_bardchange.xml"
     },
     {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_magneticcard.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout-sw720dp\\activity_magneticcard.xml"
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_ip__settings.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\activity_ip__settings.xml"
     },
     {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\duplicate_list.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout-sw720dp\\duplicate_list.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_printer.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout-sw720dp\\activity_printer.xml"
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\duplicate_list.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\duplicate_list.xml"
     },
     {
         "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_fps.xml",
         "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\activity_fps.xml"
     },
     {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\row2.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout-sw720dp\\row2.xml"
-    },
-    {
         "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_siezed_items.xml",
         "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\activity_siezed_items.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_reports.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout-sw720dp\\activity_reports.xml"
     },
     {
         "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_fpt3.xml",
         "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\activity_fpt3.xml"
     },
     {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_smartcard.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout-sw720dp\\activity_smartcard.xml"
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\list_row.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\list_row.xml"
     },
     {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\shape_drop_down_normal.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout-sw720dp\\shape_drop_down_normal.xml"
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\custom_progress_dialog.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\custom_progress_dialog.xml"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\dlg_informationbox.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\dlg_informationbox.xml"
     },
     {
         "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\row.xml",
         "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\row.xml"
     },
     {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_preview.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout-sw720dp\\activity_preview.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\dlg_entertext.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout-sw720dp\\dlg_entertext.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\list_remove.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout-sw720dp\\list_remove.xml"
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\mail_bdteamsupport.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\mail_bdteamsupport.xml"
     },
     {
         "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_fpt_.xml",
         "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\activity_fpt_.xml"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_offender.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\activity_offender.xml"
     },
     {
         "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\row2.xml",
@@ -280,6 +88,14 @@
         "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\activity_duplicate_print.xml"
     },
     {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\list_view_item_devices.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\list_view_item_devices.xml"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\dlg_entertext.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\dlg_entertext.xml"
+    },
+    {
         "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_witness_form.xml",
         "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\activity_witness_form.xml"
     },
@@ -288,12 +104,16 @@
         "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\section_list.xml"
     },
     {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_userlogin.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\activity_userlogin.xml"
+    },
+    {
         "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_reports.xml",
         "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\activity_reports.xml"
     },
     {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_fpt3.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout-sw720dp\\activity_fpt3.xml"
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_previous_history.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\activity_previous_history.xml"
     },
     {
         "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\splash.xml",
@@ -308,48 +128,44 @@
         "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\activity_fpt4_.xml"
     },
     {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_previous_history.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout-sw720dp\\activity_previous_history.xml"
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_main.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\list_remove.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\list_remove.xml"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_serialport1.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\activity_serialport1.xml"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_magneticcard.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\activity_magneticcard.xml"
     },
     {
         "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\myprogressdialog.xml",
         "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\myprogressdialog.xml"
     },
     {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\dlg_customsmart.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout-sw720dp\\dlg_customsmart.xml"
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\dlg_bitmap.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\dlg_bitmap.xml"
     },
     {
         "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\dlg_barcode.xml",
         "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\dlg_barcode.xml"
     },
     {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\printdisplay.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout-sw720dp\\printdisplay.xml"
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_menu__dashboard_.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\activity_menu__dashboard_.xml"
     },
     {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\add_list_section.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout-sw720dp\\add_list_section.xml"
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\shape_drop_down_normal.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\shape_drop_down_normal.xml"
     },
     {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_challan__generation.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout-sw720dp\\activity_challan__generation.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\section_list.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout-sw720dp\\section_list.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\dlg_barcode.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout-sw720dp\\dlg_barcode.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_splash.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout-sw720dp\\activity_splash.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\mail_bdteamsupport.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout-sw720dp\\mail_bdteamsupport.xml"
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\spinner_item.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\spinner_item.xml"
     },
     {
         "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_challan__generation.xml",
@@ -358,6 +174,10 @@
     {
         "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\add_list_section.xml",
         "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\add_list_section.xml"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\toast_background.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\toast_background.xml"
     },
     {
         "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_smartcard.xml",
@@ -372,23 +192,7 @@
         "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\activity_splash.xml"
     },
     {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\dlg_bitmap.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout-sw720dp\\dlg_bitmap.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\myprogressdialog.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout-sw720dp\\myprogressdialog.xml"
-    },
-    {
         "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\dlg_customsmart.xml",
         "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout-sw720dp\\dlg_customsmart.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\custom_progress_dialog.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout-sw720dp\\custom_progress_dialog.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp-v13\\activity_offender.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout-sw720dp\\activity_offender.xml"
     }
 ]

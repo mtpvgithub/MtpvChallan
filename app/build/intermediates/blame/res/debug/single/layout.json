@@ -12,6 +12,14 @@
         "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\list_item_device.xml"
     },
     {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_siezed_items.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\activity_siezed_items.xml"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dlg_bardchange.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\dlg_bardchange.xml"
+    },
+    {
         "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dlg_entertext.xml",
         "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\dlg_entertext.xml"
     },
@@ -24,48 +32,40 @@
         "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\activity_fps.xml"
     },
     {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dlg_bitmap.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout\\dlg_bitmap.xml"
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_selectperi.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\activity_selectperi.xml"
     },
     {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dlg_barcode.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout\\dlg_barcode.xml"
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\activity_splash.xml"
     },
     {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_siezed_items.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout\\activity_siezed_items.xml"
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dlg_addline.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\dlg_addline.xml"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_offender.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\activity_offender.xml"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\splash.xml"
     },
     {
         "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\printdisplay.xml",
         "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\printdisplay.xml"
     },
     {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row2.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout\\row2.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_duplicate__sample.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout\\activity_duplicate__sample.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_device.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout\\list_item_device.xml"
-    },
-    {
         "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_menu__dashboard_.xml",
         "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\activity_menu__dashboard_.xml"
     },
     {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout\\row.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dlg_bardchange.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout\\dlg_bardchange.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bluetooth__paired_list.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout\\activity_bluetooth__paired_list.xml"
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_preview.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\activity_preview.xml"
     },
     {
         "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dlg_customsmart.xml",
@@ -76,8 +76,12 @@
         "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\section_list.xml"
     },
     {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dependency.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout\\dependency.xml"
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_duplicate_print.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\activity_duplicate_print.xml"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_challan__generation.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\activity_challan__generation.xml"
     },
     {
         "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ip__settings.xml",
@@ -96,10 +100,6 @@
         "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\list_row.xml"
     },
     {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\customlayout.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout\\customlayout.xml"
-    },
-    {
         "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settings_2.xml",
         "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\activity_settings_2.xml"
     },
@@ -112,32 +112,32 @@
         "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\activity_reports.xml"
     },
     {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_smartcard.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout\\activity_smartcard.xml"
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_witness_form.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\activity_witness_form.xml"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_serialport1.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\activity_serialport1.xml"
     },
     {
         "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_magneticcard.xml",
         "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\activity_magneticcard.xml"
     },
     {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settings_2.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout\\activity_settings_2.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add_list_section.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout\\add_list_section.xml"
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mail_bdteamsupport.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\mail_bdteamsupport.xml"
     },
     {
         "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row.xml",
         "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\row.xml"
     },
     {
-        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_duplicate__sample.xml",
-        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\activity_duplicate__sample.xml"
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row2.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\row2.xml"
     },
     {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_witness_form.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout\\activity_witness_form.xml"
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_duplicate__sample.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\activity_duplicate__sample.xml"
     },
     {
         "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_userlogin.xml",
@@ -148,14 +148,6 @@
         "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\spinner_item.xml"
     },
     {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout\\activity_splash.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_btdiscovery.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout\\activity_btdiscovery.xml"
-    },
-    {
         "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_remove.xml",
         "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\list_remove.xml"
     },
@@ -164,32 +156,16 @@
         "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\customlayout.xml"
     },
     {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_item.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout\\spinner_item.xml"
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add_list_section.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\add_list_section.xml"
     },
     {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_challan__generation.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout\\activity_challan__generation.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_otp.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout\\activity_otp.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_duplicate_print.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout\\activity_duplicate_print.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_previous_history.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout\\activity_previous_history.xml"
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fpt_.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\activity_fpt_.xml"
     },
     {
         "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dlg_informationbox.xml",
         "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\dlg_informationbox.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_row.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout\\list_row.xml"
     },
     {
         "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_otp.xml",
@@ -200,184 +176,16 @@
         "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\activity_add__sections.xml"
     },
     {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dlg_customsmart.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout\\dlg_customsmart.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mail_bdteamsupport.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout\\mail_bdteamsupport.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_remove.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout\\list_remove.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ip__settings.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout\\activity_ip__settings.xml"
-    },
-    {
-        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bluetooth__paired_list.xml",
-        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\activity_bluetooth__paired_list.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_preview.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout\\activity_preview.xml"
-    },
-    {
-        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_siezed_items.xml",
-        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\activity_siezed_items.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_serialport1.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout\\activity_serialport1.xml"
-    },
-    {
-        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dlg_bardchange.xml",
-        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\dlg_bardchange.xml"
-    },
-    {
-        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_selectperi.xml",
-        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\activity_selectperi.xml"
-    },
-    {
-        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
-        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\activity_splash.xml"
-    },
-    {
-        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_menu__dashboard_.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout\\activity_menu__dashboard_.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_magneticcard.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout\\activity_magneticcard.xml"
-    },
-    {
-        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dlg_addline.xml",
-        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\dlg_addline.xml"
-    },
-    {
-        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_offender.xml",
-        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\activity_offender.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fps.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout\\activity_fps.xml"
-    },
-    {
-        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
-        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\splash.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dlg_addline.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout\\dlg_addline.xml"
-    },
-    {
-        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_preview.xml",
-        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\activity_preview.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\printdisplay.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout\\printdisplay.xml"
-    },
-    {
-        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_challan__generation.xml",
-        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\activity_challan__generation.xml"
-    },
-    {
-        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_duplicate_print.xml",
-        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\activity_duplicate_print.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_view_item_devices.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout\\list_view_item_devices.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_printer.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout\\activity_printer.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\section_list.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout\\section_list.xml"
-    },
-    {
-        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_witness_form.xml",
-        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\activity_witness_form.xml"
-    },
-    {
-        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_serialport1.xml",
-        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\activity_serialport1.xml"
-    },
-    {
-        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mail_bdteamsupport.xml",
-        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\mail_bdteamsupport.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_reports.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout\\activity_reports.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_userlogin.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout\\activity_userlogin.xml"
-    },
-    {
-        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row2.xml",
-        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\row2.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_selectperi.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout\\activity_selectperi.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fpt_.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout\\activity_fpt_.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_offender.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout\\activity_offender.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add__sections.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout\\activity_add__sections.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\act_unicode.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout\\act_unicode.xml"
-    },
-    {
-        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add_list_section.xml",
-        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\add_list_section.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dlg_informationbox.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout\\dlg_informationbox.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout\\splash.xml"
-    },
-    {
-        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fpt_.xml",
-        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\activity_fpt_.xml"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dlg_entertext.xml",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\layout\\dlg_entertext.xml"
-    },
-    {
         "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dlg_bitmap.xml",
         "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\dlg_bitmap.xml"
     },
     {
         "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dlg_barcode.xml",
         "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\dlg_barcode.xml"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bluetooth__paired_list.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\activity_bluetooth__paired_list.xml"
     },
     {
         "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\act_unicode.xml",

@@ -1,19 +1,11 @@
 [
     {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\pl_but.png",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-large-mdpi\\pl_but.png"
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\ser_port_inactive.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-large-mdpi\\ser_port_inactive.png"
     },
     {
         "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\selectper2.png",
         "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-large-mdpi\\selectper2.png"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\samplelogo2.png",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-large-mdpi\\samplelogo2.png"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\smart_but.png",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-large-mdpi\\smart_but.png"
     },
     {
         "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\informationimg1.png",
@@ -24,100 +16,8 @@
         "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-large-mdpi\\samplelogo2.png"
     },
     {
-        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\headerlogo.png",
-        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-large-mdpi\\headerlogo.png"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\serialporttitle2.png",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-large-mdpi\\serialporttitle2.png"
-    },
-    {
-        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\bt3.png",
-        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-large-mdpi\\bt3.png"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\smart_but_inactive.png",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-large-mdpi\\smart_but_inactive.png"
-    },
-    {
-        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\printer2.png",
-        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-large-mdpi\\printer2.png"
-    },
-    {
-        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\ic_launcher.png",
-        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-large-mdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\pl_but.png",
-        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-large-mdpi\\pl_but.png"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\headerlogo.png",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-large-mdpi\\headerlogo.png"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\pl_but1.png",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-large-mdpi\\pl_but1.png"
-    },
-    {
-        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\mag_back.png",
-        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-large-mdpi\\mag_back.png"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\informationimg1.png",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-large-mdpi\\informationimg1.png"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\magcardtitle2.png",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-large-mdpi\\magcardtitle2.png"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\smartcardtitle2.png",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-large-mdpi\\smartcardtitle2.png"
-    },
-    {
-        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\smart_but.png",
-        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-large-mdpi\\smart_but.png"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\printer_back.png",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-large-mdpi\\printer_back.png"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\bt2.png",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-large-mdpi\\bt2.png"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\fpst.png",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-large-mdpi\\fpst.png"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\search.png",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-large-mdpi\\search.png"
-    },
-    {
-        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\ser_port_inactive.png",
-        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-large-mdpi\\ser_port_inactive.png"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\mag_back.png",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-large-mdpi\\mag_back.png"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\printer_back_inactive.png",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-large-mdpi\\printer_back_inactive.png"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\bt3.png",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-large-mdpi\\bt3.png"
-    },
-    {
         "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\ser_port.png",
         "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-large-mdpi\\ser_port.png"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\ser_port_inactive.png",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-large-mdpi\\ser_port_inactive.png"
     },
     {
         "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\serialporttitle2.png",
@@ -132,20 +32,36 @@
         "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-large-mdpi\\printer_back.png"
     },
     {
-        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\smart_but_inactive.png",
-        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-large-mdpi\\smart_but_inactive.png"
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\printer_back_inactive.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-large-mdpi\\printer_back_inactive.png"
     },
     {
         "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\smartcardtitle2.png",
         "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-large-mdpi\\smartcardtitle2.png"
     },
     {
-        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\printer_back_inactive.png",
-        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-large-mdpi\\printer_back_inactive.png"
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\smart_but_inactive.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-large-mdpi\\smart_but_inactive.png"
     },
     {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\ic_launcher.png",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-large-mdpi\\ic_launcher.png"
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\headerlogo.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-large-mdpi\\headerlogo.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\bt3.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-large-mdpi\\bt3.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\printer2.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-large-mdpi\\printer2.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-large-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\pl_but.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-large-mdpi\\pl_but.png"
     },
     {
         "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\fps_back_inactive.png",
@@ -164,39 +80,23 @@
         "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-large-mdpi\\magcardtitle2.png"
     },
     {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\selectper2.png",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-large-mdpi\\selectper2.png"
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\mag_back.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-large-mdpi\\mag_back.png"
     },
     {
         "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\mag_back_inactive.png",
         "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-large-mdpi\\mag_back_inactive.png"
     },
     {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\mag_back_inactive.png",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-large-mdpi\\mag_back_inactive.png"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\ser_port.png",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-large-mdpi\\ser_port.png"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\fps_back.png",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-large-mdpi\\fps_back.png"
-    },
-    {
         "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\bt2.png",
         "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-large-mdpi\\bt2.png"
     },
     {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\smart_but.png",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-large-mdpi\\smart_but.png"
+    },
+    {
         "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\fpst.png",
         "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\drawable-large-mdpi\\fpst.png"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\fps_back_inactive.png",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-large-mdpi\\fps_back_inactive.png"
-    },
-    {
-        "merged": "D:\\Android\\LawnOrder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-large-mdpi-v4\\printer2.png",
-        "source": "D:\\Android\\LawnOrder\\app\\src\\main\\res\\drawable-large-mdpi\\printer2.png"
     }
 ]

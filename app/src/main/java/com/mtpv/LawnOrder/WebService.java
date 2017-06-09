@@ -111,9 +111,7 @@ public class WebService extends Activity  {
 		    }
 			
 			return  response.toString();
-				
-		
-	}
+    }
 
 
 	public String GetPsPointNames(String sPSN) {
@@ -492,7 +490,7 @@ public class WebService extends Activity  {
 		    HttpTransportSE httpTransport = new HttpTransportSE(SOAP_ADDRESS);
 		    Object response=null;
 		    
-		    try
+        try
 		    {
 		    httpTransport.call(SOAP_ACTION, envelope);
 		    response = envelope.getResponse();

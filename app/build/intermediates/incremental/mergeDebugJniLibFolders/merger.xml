@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\Android\MtpvChallan\app\src\main\jniLibs"><file name="armeabi/libMorphoNfiq.so" path="D:\Android\MtpvChallan\app\src\main\jniLibs\armeabi\libMorphoNfiq.so"/><file name="armeabi/libNativeMorphoSmartSDK_6.6.6.0-3.1.so" path="D:\Android\MtpvChallan\app\src\main\jniLibs\armeabi\libNativeMorphoSmartSDK_6.6.6.0-3.1.so"/></source></dataSet><dataSet config="debug"><source path="D:\Android\MtpvChallan\app\src\debug\jniLibs"/></dataSet></merger>

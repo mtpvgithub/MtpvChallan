@@ -17,6 +17,7 @@ ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:2:1-242:12
 		ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:2:11-69
 uses-sdk
 ADDED from D:\Android\MtpvChallan\app\src\main\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\mtpv\.android\build-cache\c9fa2db51db77359e5d7d10b452c7cf7fc2128a0\output\AndroidManifest.xml:18:5-42
 MERGED from [com.android.support:support-v4:25.3.1] C:\Users\mtpv\.android\build-cache\a74645edf0c447d6b09f376d6733c3c3c2f66783\output\AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\mtpv\.android\build-cache\6bda764a6719bd6464cf5d4dbd9c5b0790be2ee4\output\AndroidManifest.xml:21:5-23:60
 MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\mtpv\.android\build-cache\96e5523fcd7c2a9de0f6c452edac3bdcbd1e4199\output\AndroidManifest.xml:21:5-23:63

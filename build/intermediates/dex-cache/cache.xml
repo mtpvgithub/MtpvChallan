@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Android\MtpvChallan\app\libs\N5PrinterAPI.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7e9fa058a16f29aa147d8fa85eabf2da197456a5">
+        <dex dex="D:\Android\MtpvChallan\app\build\intermediates\pre-dexed\debug\N5PrinterAPI_c291027817be7067e0569e2a92d03ac63be48a3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mtpv\.android\build-cache\a22de2d1fdf085df2179f5b2da32b6ed57d527ad\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\Android\MtpvChallan\app\build\intermediates\pre-dexed\debug\classes_45b16ab73d3ef48dfe075b1219572143022a63a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\MtpvChallan\app\libs\MorphoSmart_SDK_6.6.6.0-3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f0cd7fdbf0cd60311fc7055e873c4031451f6031">
+        <dex dex="D:\Android\MtpvChallan\app\build\intermediates\pre-dexed\debug\MorphoSmart_SDK_6.6.6.0-3.1_1f434abb53ac4536969ac5dd2a96912deb5bf5db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\MtpvChallan\app\libs\ksoap2-android-assembly-2.4-jar-with-dependencies.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e8796346a9191a019e936210a2dc50662c57594b">
+        <dex dex="D:\Android\MtpvChallan\app\build\intermediates\pre-dexed\debug\ksoap2-android-assembly-2.4-jar-with-dependencies_85248b949c7923640ac4f143ef7460be92f5303e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mtpv\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\Android\MtpvChallan\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_a87ef968455551aedcfbcee6a44c900c5d3e5290.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\MtpvChallan\app\libs\ImageSupport-V1.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="08516e576efeabc9c34ce7264d3568cdd34beae9">
+        <dex dex="D:\Android\MtpvChallan\app\build\intermediates\pre-dexed\debug\ImageSupport-V1.4_79abf43d627bf93c2110f7aa9b2525d3cad25559.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mtpv\.android\build-cache\fe115d326e9ebce2cb35ba5222ac610b9aebfe55\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\Android\MtpvChallan\app\build\intermediates\pre-dexed\debug\classes_1a6415f8476985b69b497b04f4210a5e6522f00a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mtpv\.android\build-cache\a74645edf0c447d6b09f376d6733c3c3c2f66783\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Android\MtpvChallan\app\build\intermediates\pre-dexed\debug\classes_b81529c06c19adbe55d789514b1b4a4fb34d4edb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\MtpvChallan\app\libs\commons-net-examples-3.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6272d80e897347c3c5f3691c8d76eae5deb764e1">
+        <dex dex="D:\Android\MtpvChallan\app\build\intermediates\pre-dexed\debug\commons-net-examples-3.5_03d55c8224f78b5ee5bf40d48a772876f2a00cff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mtpv\.android\build-cache\96e5523fcd7c2a9de0f6c452edac3bdcbd1e4199\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\Android\MtpvChallan\app\build\intermediates\pre-dexed\debug\classes_440d12db070938004ea637394576f373a38eda69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\MtpvChallan\app\libs\ftp4j-1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5587b19a4527cf8e0e53a58aff649e06dbd869d9">
+        <dex dex="D:\Android\MtpvChallan\app\build\intermediates\pre-dexed\debug\ftp4j-1.6_c029d464da3c0aa84430a25b686a12bc0567bbc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mtpv\.android\build-cache\6bda764a6719bd6464cf5d4dbd9c5b0790be2ee4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\Android\MtpvChallan\app\build\intermediates\pre-dexed\debug\classes_47af18b9452b3268994c23b1a41b328f7e18df1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\MtpvChallan\app\libs\org-apache-commons-codec.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d9c6412a9f19fc03760ca0cf4708bca50f57a80c">
+        <dex dex="D:\Android\MtpvChallan\app\build\intermediates\pre-dexed\debug\org-apache-commons-codec_a1f8f586721e86859768f3c51c4348d854f057b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\MtpvChallan\app\libs\LeopardProwessSdkV-1.0.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="53c61e8b5b5cffe6fc8e93f570aba6e8d46bc6f2">
+        <dex dex="D:\Android\MtpvChallan\app\build\intermediates\pre-dexed\debug\LeopardProwessSdkV-1.0.5_2134581432808041b8bcbf005089810d2465f7a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\MtpvChallan\app\libs\opencv_library-2.4.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e92dfaeacc97afc46002172e0d0d55b33838715b">
+        <dex dex="D:\Android\MtpvChallan\app\build\intermediates\pre-dexed\debug\opencv_library-2.4.3_ad4adfff224f8a9286cb9c2bff836a17bf412183.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\MtpvChallan\app\libs\commons-validator-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="42fa1046955ade59f5354a1876cfc523cea33815">
+        <dex dex="D:\Android\MtpvChallan\app\build\intermediates\pre-dexed\debug\commons-validator-1.4.0_dab79f27ada01e3a967178bd237733cac6b12484.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\MtpvChallan\app\libs\commons-net-3.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="342fc284019f590e1308056990fdb24a08f06318">
+        <dex dex="D:\Android\MtpvChallan\app\build\intermediates\pre-dexed\debug\commons-net-3.5_c9b554a0f3cfe5ed82ce79a3f716265e71eba985.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\MtpvChallan\app\libs\httpclient-4.5.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d1577ae15f01ef5438c5afc62162457c00a34713">
+        <dex dex="D:\Android\MtpvChallan\app\build\intermediates\pre-dexed\debug\httpclient-4.5.3_337d51a56b838c3ce1b3e1cc4d5bf9617453f822.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\MtpvChallan\app\libs\Analogics3inchThermalBTPrinterAPI.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f528b9ef8aac8492c552aea47ecaa00ae68aa40e">
+        <dex dex="D:\Android\MtpvChallan\app\build\intermediates\pre-dexed\debug\Analogics3inchThermalBTPrinterAPI_bf9434cc78180c96bdf065be079f2d639bcbca83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mtpv\.android\build-cache\433bb8a041f9d7a96a664b8bd6bf6829df593cc4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\Android\MtpvChallan\app\build\intermediates\pre-dexed\debug\classes_33d70c9e207ff8ae5d7b0edabd924c3c25909b0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\MtpvChallan\app\libs\httpmime-4.5.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="889fd6d061bb63b99dd5c6aba35a555ae863de52">
+        <dex dex="D:\Android\MtpvChallan\app\build\intermediates\pre-dexed\debug\httpmime-4.5.3_30f6542ffad712d1fa08779374e49bc7aedadca9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\MtpvChallan\app\libs\httpcore-4.4.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e3fd8ced1f52c7574af952e2e6da0df8df08eb82">
+        <dex dex="D:\Android\MtpvChallan\app\build\intermediates\pre-dexed\debug\httpcore-4.4.6_e7c7207320dc1ff027668288e17bce656e132158.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\MtpvChallan\app\libs\AndroidBiometricsAPI.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1ef5efce8a25852a83892052e8daccddf62f112c">
+        <dex dex="D:\Android\MtpvChallan\app\build\intermediates\pre-dexed\debug\AndroidBiometricsAPI_385c69f7bdfe68063c09b6f5ae12c1bd4766f4b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\MtpvChallan\app\libs\android-support-v4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="48c94ae70fa65718b382098237806a5909bb096e">
+        <dex dex="D:\Android\MtpvChallan\app\build\intermediates\pre-dexed\debug\android-support-v4_950c1e72a2d8749314705e6835633c4a4b69846f.jar" />
+    </item>
+
+</items>

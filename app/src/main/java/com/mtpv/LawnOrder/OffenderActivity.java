@@ -97,6 +97,7 @@ public class OffenderActivity extends Activity implements OnClickListener {
 	private mItems_list[] sections = null;
 	@SuppressWarnings("unused")
 	private ArrayAdapter<mItems_list> listAdapter = null;
+    
 	public static String NAMESPACE = "http://service.mother.com";
 	
 	static ArrayList<String> Ditenditems = new ArrayList<String>(); // = null;
@@ -7482,9 +7483,7 @@ public class OffenderActivity extends Activity implements OnClickListener {
 						Log.i("BitMap ::", "" + bitmap);
 						Bitmap mutableBitmap = bitmap.copy(
 								Bitmap.Config.ARGB_8888, true);
-						Canvas canvas = new Canvas(mutableBitmap); // bmp is the
-																	// bitmap to
-																	// dwaw into
+						Canvas canvas = new Canvas(mutableBitmap);
 
 						Paint paint = new Paint();
 						paint.setColor(Color.RED);

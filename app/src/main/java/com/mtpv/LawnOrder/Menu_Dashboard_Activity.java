@@ -227,7 +227,7 @@ public static String SOAP_ACTION = NAMESPACE + methodIDMaster;
 		@Override
 		protected String doInBackground(Void... params) {
 				// TODO Auto-generated method stub
-			Log.i("getMastersDownload method called ", "YES");
+			Log.d("getMastersDownload method called ", "YES");
 			String resp="";
 			try {
 				String ip="";
@@ -322,8 +322,7 @@ public static String SOAP_ACTION = NAMESPACE + methodIDMaster;
 				alertDialog.setButton(AlertDialog.BUTTON_NEUTRAL, "OK",
 				    new DialogInterface.OnClickListener() {
 				        public void onClick(DialogInterface dialog, int which) {
-				        	
-				            dialog.dismiss();
+							dialog.dismiss();
 				        }
 				    });
 				alertDialog.show();

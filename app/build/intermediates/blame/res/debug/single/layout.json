@@ -108,12 +108,12 @@
         "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\dependency.xml"
     },
     {
-        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_reports.xml",
-        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\activity_reports.xml"
-    },
-    {
         "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_witness_form.xml",
         "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\activity_witness_form.xml"
+    },
+    {
+        "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_reports.xml",
+        "source": "D:\\Android\\MtpvChallan\\app\\src\\main\\res\\layout\\activity_reports.xml"
     },
     {
         "merged": "D:\\Android\\MtpvChallan\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_serialport1.xml",
